@@ -1,0 +1,7 @@
+THIS FILE WILL BE OVERWRITTEN EVERY TIME YOU RUN THE SCRIPT !!!
+
+Plist for skins Base64 'User Skins':
+<string>{'1001': 'a', '1002': 'b'}</string>
+
+Plist for Skin Names 'User Name Skins'
+<string>{'1001': 'yeetdisdude', '1002': 'YeetDisDude#0001'}</string>
