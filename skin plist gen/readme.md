@@ -1,4 +1,4 @@
-# Plist generator for plist files
+# Plist generator for zombiegun3d.plist
 This is for making modded skin packs for ***iOS*** Pixel Gun 3D. I am not explaining how to use this as you should figure out how to use it your self
 ## Important
 - *dict.txt* will be overwritten once the python script is ran
