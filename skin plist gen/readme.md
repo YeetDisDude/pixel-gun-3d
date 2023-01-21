@@ -3,8 +3,16 @@ This is for making modded skin packs for ***iOS*** Pixel Gun 3D. I am not explai
 ## Important
 - *dict.txt* will be overwritten once the python script is ran
 -  Use if you know what you're doing 
-- No other libraries needed to run this script
 - This is for iOS Plist files!
+- No need **pip install** the modules
+
+## Whats new
+- Now looks more beatiful with Colorama
+- The script now validates if the base64 is valid or not
+- You can paste base64 with the "data:image/png;base64," prefix and the script will automatically remvove it
+- New log file because the script will overwrite the dict.txt but logfile.txt wont be overwritten
+- Checks the base64 input
+
 
 ## Plist file format:
 
