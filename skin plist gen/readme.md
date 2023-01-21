@@ -13,7 +13,7 @@ This is for making modded skin packs for ***iOS*** Pixel Gun 3D. I am not explai
 - New log file because the script will overwrite the dict.txt but logfile.txt wont be overwritten
 - Checks the base64 input
 
-<img src="img.png" alt="Img" style="float: left; margin-right: 10px;" />
+<img src="img.png" alt="Img" style="float: left; margin-right: 10px; max-width: 50%; max-height: 50%" />
 
 ## Plist file format:
 
