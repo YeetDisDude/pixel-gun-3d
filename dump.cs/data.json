@@ -1,19 +1,22 @@
 {
   "versions": {
-    "13.0.0": "https://www.mediafire.com/file/g599ptm2m5cak1r/13.0.0.cs/file",
-    "16.6.1": "https://www.mediafire.com/file/786auy0wihq5yw3/16.6.1.cs/file",
-    "22.3.2": "https://www.mediafire.com/file/2u8i57t8qfn8umo/22.3.2.cs/file",
-    "22.3.6": "https://www.mediafire.com/file/uuag8f11unqh7f6/22.3.6.cs/file",
-    "22.4.0": "https://www.mediafire.com/file/h2bl5b5gyxq3xct/22.4.0.cs/file",
-    "22.4.1": "https://www.mediafire.com/file/rlmobkadokbehy8/22.4.1.cs/file",
-    "22.4.2": "https://www.mediafire.com/file/ivuj7evawehov0l/22.4.2.cs/file",
-    "22.5.1": "https://www.mediafire.com/file/icicjw5sc0m71lc/22.5.1.cs/file",
-    "22.5.4": "https://www.mediafire.com/file/uuwoj78q5szm9uj/22.5.4.cs/file",
-    "22.6.0": "https://www.mediafire.com/file/sqs4vun0ytmr3vz/22.6.0.cs/file",
-    "22.9.0": "https://www.mediafire.com/file/cqs07v176pp6dg4/22.9.0.cs/file",
-    "22.9.1": "https://www.mediafire.com/file/h3mmd58nvpcwhgc/22.9.1.cs/file",
-    "22.9.2": "https://www.mediafire.com/file/v6bbrron6dna1om/22.9.2.cs/file",
-    "23.0.1": "https://www.mediafire.com/file/nbcyd3ftemi1xxk/23.0.1.cs/file",
-    "23.1.0": "https://www.mediafire.com/file/2469ve81uufycn1/23.1.0.cs/file"
+    "13.0.0": "https://cdn.glitch.global/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/13.0.0.cs?v=1678895031289",
+    "16.6.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/16.6.1.cs?v=1678895055973",
+    "22.3.2": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.3.2.cs?v=1678895068834",
+    "22.3.6": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.3.6.cs?v=1678895111196",
+    "22.4.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.0.cs?v=1678895116582",
+    "22.4.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.1.cs?v=1678895121437",
+    "22.4.2": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.2.cs?v=1678895125169",
+    "22.4.3": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.3.cs?v=1678895131621",
+    "22.5.0": 'https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.0.cs?v=1678895137749",
+    "22.5.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.1.cs?v=1678895142032",
+    "22.5.3": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.3.cs?v=1678895150660",
+    "22.5.4": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.4.cs?v=1678895155916",
+    "22.6.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.6.0.cs?v=1678895177664",
+    "22.9.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.9.0.cs?v=1678895187440",
+    "22.9.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/23.1.0.cs?v=1678895208370",
+    "22.9.2": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.9.2.cs?v=1678895191116",
+    "23.0.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/23.0.1.cs?v=1678895189037",
+    "23.1.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/23.1.0.cs?v=1678895208370"
   }
 }
