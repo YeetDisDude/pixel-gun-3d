@@ -1,0 +1,22 @@
+{
+  "versions": {
+    "13.0.0": "https://cdn.glitch.global/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/13.0.0.dll?v=1678946063907",
+    "16.6.1": "https://cdn.glitch.global/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/16.6.1.dll?v=1678946109258",
+    "22.3.2": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.3.2.dll?v=1678946113998",
+    "22.3.6": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.3.6.dll?v=1678946119910",
+    "22.4.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.0.dll?v=1678946124984",
+    "22.4.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.1.dll?v=1678946129858",
+    "22.4.2": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.2.dll?v=1678946134138",
+    "22.4.3": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.4.3.dll?v=1678946137758",
+    "22.5.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.0.dll?v=1678946145896",
+    "22.5.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.1.dll?v=1678946150283",
+    "22.5.3": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.3.dll?v=1678946159795",
+    "22.5.4": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.5.4.dll?v=1678946164151",
+    "22.6.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.6.0.dll?v=1678946168606",
+    "22.9.0": "https://cdn.glitch.global/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.9.0.dll?v=1678946172132",
+    "22.9.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.9.1.dll?v=1678946177911",
+    "22.9.2": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/22.9.2.dll?v=1678946186480",
+    "23.0.1": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/23.0.1.dll?v=1678946190948",
+    "23.1.0": "https://cdn.glitch.me/bcc0d6f3-9f2a-4bcd-a064-2f3e03ca717b/23.1.0.dll?v=1678946195766"
+  }
+}
