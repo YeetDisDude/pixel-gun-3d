@@ -1,0 +1,5982 @@
+[
+    {
+        "weaponname": "Pixel Gun",
+        "weapon_id": "1882894547",
+        "gallery_number": "1"
+    },
+    {
+        "weaponname": "Shotgun",
+        "weapon_id": "610280094",
+        "gallery_number": "2"
+    },
+    {
+        "weaponname": "Machine Gun",
+        "weapon_id": "688976608",
+        "gallery_number": "3"
+    },
+    {
+        "weaponname": "Old Revolver",
+        "weapon_id": "277065823",
+        "gallery_number": "4"
+    },
+    {
+        "weaponname": "Heavy Machine Gun",
+        "weapon_id": "878202910",
+        "gallery_number": "5"
+    },
+    {
+        "weaponname": "Miner Weapon",
+        "weapon_id": "734659954",
+        "gallery_number": "6"
+    },
+    {
+        "weaponname": "Ak Mini",
+        "weapon_id": "117448877",
+        "gallery_number": "7"
+    },
+    {
+        "weaponname": "Combat Knife",
+        "weapon_id": "2042078499",
+        "gallery_number": "8"
+    },
+    {
+        "weaponname": "Combat Rifle",
+        "weapon_id": "685928034",
+        "gallery_number": "9"
+    },
+    {
+        "weaponname": "Desert Eagle",
+        "weapon_id": "1682463899",
+        "gallery_number": "10"
+    },
+    {
+        "weaponname": "Mega Destroyer",
+        "weapon_id": "1209796885",
+        "gallery_number": "11"
+    },
+    {
+        "weaponname": "Swat Rifle",
+        "weapon_id": "1837355830",
+        "gallery_number": "12"
+    },
+    {
+        "weaponname": "Fast Death",
+        "weapon_id": "1598375416",
+        "gallery_number": "13"
+    },
+    {
+        "weaponname": "Shovel",
+        "weapon_id": "610660271",
+        "gallery_number": "14"
+    },
+    {
+        "weaponname": "Pig Hammer",
+        "weapon_id": "200814284",
+        "gallery_number": "15"
+    },
+    {
+        "weaponname": "Hitman Pistol",
+        "weapon_id": "1983513973",
+        "gallery_number": "16"
+    },
+    {
+        "weaponname": "Knight Sword",
+        "weapon_id": "849666567",
+        "gallery_number": "17"
+    },
+    {
+        "weaponname": "Warrior Axe",
+        "weapon_id": "106905623",
+        "gallery_number": "18"
+    },
+    {
+        "weaponname": "Hunger Bow",
+        "weapon_id": "1977605880",
+        "gallery_number": "19"
+    },
+    {
+        "weaponname": "Chainsaw",
+        "weapon_id": "1674821442",
+        "gallery_number": "20"
+    },
+    {
+        "weaponname": "Crossbow",
+        "weapon_id": "1595463359",
+        "gallery_number": "21"
+    },
+    {
+        "weaponname": "Evil Pig Hammer",
+        "weapon_id": "634759090",
+        "gallery_number": "22"
+    },
+    {
+        "weaponname": "Lava Flail",
+        "weapon_id": "516627498",
+        "gallery_number": "23"
+    },
+    {
+        "weaponname": "Wizard Wand",
+        "weapon_id": "1950421782",
+        "gallery_number": "24"
+    },
+    {
+        "weaponname": "Double-barreled Shotgun",
+        "weapon_id": "1849125185",
+        "gallery_number": "25"
+    },
+    {
+        "weaponname": "Alian Gun",
+        "weapon_id": "1848393231",
+        "gallery_number": "26"
+    },
+    {
+        "weaponname": "Army Rifle",
+        "weapon_id": "1396059427",
+        "gallery_number": "27"
+    },
+    {
+        "weaponname": "Christmas Sword",
+        "weapon_id": "1175780686",
+        "gallery_number": "28"
+    },
+    {
+        "weaponname": "Happy Tree Slayer",
+        "weapon_id": "1522670775",
+        "gallery_number": "29"
+    },
+    {
+        "weaponname": "Guerilla Rifle",
+        "weapon_id": "1287532241",
+        "gallery_number": "30"
+    },
+    {
+        "weaponname": "Brutal Headhunter",
+        "weapon_id": "1554426087",
+        "gallery_number": "31"
+    },
+    {
+        "weaponname": "Uzi-uzi",
+        "weapon_id": "1975701306",
+        "gallery_number": "32"
+    },
+    {
+        "weaponname": "Sniper Rifle",
+        "weapon_id": "141335327",
+        "gallery_number": "33"
+    },
+    {
+        "weaponname": "Apocalypse",
+        "weapon_id": "654518131",
+        "gallery_number": "34"
+    },
+    {
+        "weaponname": "Prototype",
+        "weapon_id": "1655435048",
+        "gallery_number": "35"
+    },
+    {
+        "weaponname": "High Voltage",
+        "weapon_id": "1820067967",
+        "gallery_number": "36"
+    },
+    {
+        "weaponname": "Grenade Launcher",
+        "weapon_id": "439935119",
+        "gallery_number": "37"
+    },
+    {
+        "weaponname": "Firestorm",
+        "weapon_id": "1365133281",
+        "gallery_number": "38"
+    },
+    {
+        "weaponname": "Armageddom",
+        "weapon_id": "2130582939",
+        "gallery_number": "39"
+    },
+    {
+        "weaponname": "Anti-gravity Blaster",
+        "weapon_id": "1939602034",
+        "gallery_number": "40"
+    },
+    {
+        "weaponname": "Marksman",
+        "weapon_id": "884246995",
+        "gallery_number": "41"
+    },
+    {
+        "weaponname": "Katana",
+        "weapon_id": "1458381470",
+        "gallery_number": "42"
+    },
+    {
+        "weaponname": "Big Buddy",
+        "weapon_id": "1772088784",
+        "gallery_number": "43"
+    },
+    {
+        "weaponname": "Old Comrade",
+        "weapon_id": "227913265",
+        "gallery_number": "44"
+    },
+    {
+        "weaponname": "Eindringling",
+        "weapon_id": "1106345528",
+        "gallery_number": "45"
+    },
+    {
+        "weaponname": "Brave Patriot",
+        "weapon_id": "61244938",
+        "gallery_number": "46"
+    },
+    {
+        "weaponname": "State Defender",
+        "weapon_id": "528904357",
+        "gallery_number": "47"
+    },
+    {
+        "weaponname": "Bass Cannon",
+        "weapon_id": "1882108484",
+        "gallery_number": "48"
+    },
+    {
+        "weaponname": "Sparkly Blaster",
+        "weapon_id": "2089077445",
+        "gallery_number": "49"
+    },
+    {
+        "weaponname": "Cherry Bomb",
+        "weapon_id": "2040655799",
+        "gallery_number": "50"
+    },
+    {
+        "weaponname": "AK-48",
+        "weapon_id": "1683532821",
+        "gallery_number": "51"
+    },
+    {
+        "weaponname": "Freeze Ray Rifle",
+        "weapon_id": "764083007",
+        "gallery_number": "52"
+    },
+    {
+        "weaponname": "Steam Power",
+        "weapon_id": "804739016",
+        "gallery_number": "53"
+    },
+    {
+        "weaponname": "Flower Power",
+        "weapon_id": "650436556",
+        "gallery_number": "54"
+    },
+    {
+        "weaponname": "Steam Revolver",
+        "weapon_id": "564622675",
+        "gallery_number": "55"
+    },
+    {
+        "weaponname": "Scythe",
+        "weapon_id": "556133772",
+        "gallery_number": "56"
+    },
+    {
+        "weaponname": "Plasma Rifle",
+        "weapon_id": "1085911051",
+        "gallery_number": "57"
+    },
+    {
+        "weaponname": "Plasma Pistol",
+        "weapon_id": "54741770",
+        "gallery_number": "58"
+    },
+    {
+        "weaponname": "Hot Plasma Pistol",
+        "weapon_id": "54741769",
+        "gallery_number": "59"
+    },
+    {
+        "weaponname": "Razor Thrower",
+        "weapon_id": "291922434",
+        "gallery_number": "60"
+    },
+    {
+        "weaponname": "Flaming Volcano",
+        "weapon_id": "226549854",
+        "gallery_number": "61"
+    },
+    {
+        "weaponname": "Plasma Releaser",
+        "weapon_id": "1629371734",
+        "gallery_number": "62"
+    },
+    {
+        "weaponname": "Automatic Peacemaker",
+        "weapon_id": "724991367",
+        "gallery_number": "63"
+    },
+    {
+        "weaponname": "Elephant Hunter",
+        "weapon_id": "1838579076",
+        "gallery_number": "64"
+    },
+    {
+        "weaponname": "Dark Force Saber",
+        "weapon_id": "611537995",
+        "gallery_number": "65"
+    },
+    {
+        "weaponname": "Fire Demon",
+        "weapon_id": "2114834972",
+        "gallery_number": "66"
+    },
+    {
+        "weaponname": "Dark Mage Wand",
+        "weapon_id": "1950421781",
+        "gallery_number": "67"
+    },
+    {
+        "weaponname": "Dragon Breath",
+        "weapon_id": "2107939869",
+        "gallery_number": "68"
+    },
+    {
+        "weaponname": "Magic Bow",
+        "weapon_id": "1685838860",
+        "gallery_number": "69"
+    },
+    {
+        "weaponname": "Missile Thrower",
+        "weapon_id": "1730922770",
+        "gallery_number": "70"
+    },
+    {
+        "weaponname": "Firestarter",
+        "weapon_id": "192853699",
+        "gallery_number": "71"
+    },
+    {
+        "weaponname": "Crystal Laser Cannon",
+        "weapon_id": "1429434683",
+        "gallery_number": "72"
+    },
+    {
+        "weaponname": "Hellraiser",
+        "weapon_id": "704891303",
+        "gallery_number": "73"
+    },
+    {
+        "weaponname": "Pumpkin Thrower",
+        "weapon_id": "374491756",
+        "gallery_number": "74"
+    },
+    {
+        "weaponname": "Dual Machine Guns",
+        "weapon_id": "1481826121",
+        "gallery_number": "75"
+    },
+    {
+        "weaponname": "Laser Minigun",
+        "weapon_id": "223889505",
+        "gallery_number": "76"
+    },
+    {
+        "weaponname": "Signal Pistol",
+        "weapon_id": "624035159",
+        "gallery_number": "77"
+    },
+    {
+        "weaponname": "Predator",
+        "weapon_id": "1716921203",
+        "gallery_number": "78"
+    },
+    {
+        "weaponname": "Dual Revolvers",
+        "weapon_id": "729111596",
+        "gallery_number": "79"
+    },
+    {
+        "weaponname": "Snowball Gun",
+        "weapon_id": "125463954",
+        "gallery_number": "80"
+    },
+    {
+        "weaponname": "Avalanche",
+        "weapon_id": "547631144",
+        "gallery_number": "81"
+    },
+    {
+        "weaponname": "Heavy Shotgun",
+        "weapon_id": "1271903947",
+        "gallery_number": "82"
+    },
+    {
+        "weaponname": "Solar Ray Rifle",
+        "weapon_id": "1617085484",
+        "gallery_number": "83"
+    },
+    {
+        "weaponname": "Water Pistol",
+        "weapon_id": "1901727715",
+        "gallery_number": "84"
+    },
+    {
+        "weaponname": "Solar Power Cannon",
+        "weapon_id": "942760287",
+        "gallery_number": "85"
+    },
+    {
+        "weaponname": "Water Rifle",
+        "weapon_id": "737355884",
+        "gallery_number": "86"
+    },
+    {
+        "weaponname": "Dater Hater",
+        "weapon_id": "990703178",
+        "gallery_number": "87"
+    },
+    {
+        "weaponname": "Last Kiss",
+        "weapon_id": "1402982761",
+        "gallery_number": "88"
+    },
+    {
+        "weaponname": "Carrot Sword",
+        "weapon_id": "376999555",
+        "gallery_number": "89"
+    },
+    {
+        "weaponname": "Easter Bazooka",
+        "weapon_id": "321886352",
+        "gallery_number": "90"
+    },
+    {
+        "weaponname": "Exterminator",
+        "weapon_id": "58515399",
+        "gallery_number": "91"
+    },
+    {
+        "weaponname": "Assault Machine Gun",
+        "weapon_id": "1394990690",
+        "gallery_number": "92"
+    },
+    {
+        "weaponname": "Impulse Sniper Rifle",
+        "weapon_id": "1769056776",
+        "gallery_number": "93"
+    },
+    {
+        "weaponname": "Stinger",
+        "weapon_id": "1069871657",
+        "gallery_number": "94"
+    },
+    {
+        "weaponname": "Secret Forces Rifle",
+        "weapon_id": "119448270",
+        "gallery_number": "95"
+    },
+    {
+        "weaponname": "Sunrise",
+        "weapon_id": "1927022825",
+        "gallery_number": "96"
+    },
+    {
+        "weaponname": "Bastion",
+        "weapon_id": "1978675982",
+        "gallery_number": "97"
+    },
+    {
+        "weaponname": "Dual Hawks",
+        "weapon_id": "817624698",
+        "gallery_number": "98"
+    },
+    {
+        "weaponname": "Storm Hammer",
+        "weapon_id": "971883897",
+        "gallery_number": "99"
+    },
+    {
+        "weaponname": "_0xbadc0de",
+        "weapon_id": "719399757",
+        "gallery_number": "100"
+    },
+    {
+        "weaponname": "Electro Blast Rifle",
+        "weapon_id": "472852738",
+        "gallery_number": "101"
+    },
+    {
+        "weaponname": "Photon Shotgun",
+        "weapon_id": "1325239718",
+        "gallery_number": "102"
+    },
+    {
+        "weaponname": "Mines Launcher",
+        "weapon_id": "1124023131",
+        "gallery_number": "103"
+    },
+    {
+        "weaponname": "Dark Matter Generator",
+        "weapon_id": "68832960",
+        "gallery_number": "104"
+    },
+    {
+        "weaponname": "Hydra",
+        "weapon_id": "1561694862",
+        "gallery_number": "105"
+    },
+    {
+        "weaponname": "Tactical Bow",
+        "weapon_id": "1937664191",
+        "gallery_number": "106"
+    },
+    {
+        "weaponname": "Future Rifle",
+        "weapon_id": "1719052557",
+        "gallery_number": "107"
+    },
+    {
+        "weaponname": "Rapid Fire Rifle",
+        "weapon_id": "1872460146",
+        "gallery_number": "108"
+    },
+    {
+        "weaponname": "Dual Uzi",
+        "weapon_id": "2081310042",
+        "gallery_number": "109"
+    },
+    {
+        "weaponname": "Laser Disc Thrower",
+        "weapon_id": "1825337655",
+        "gallery_number": "110"
+    },
+    {
+        "weaponname": "Tesla Cannon",
+        "weapon_id": "1684193435",
+        "gallery_number": "111"
+    },
+    {
+        "weaponname": "Photon Pistol",
+        "weapon_id": "473392514",
+        "gallery_number": "112"
+    },
+    {
+        "weaponname": "Fire Orb",
+        "weapon_id": "1197003216",
+        "gallery_number": "113"
+    },
+    {
+        "weaponname": "Pet Dragon",
+        "weapon_id": "1344025625",
+        "gallery_number": "114"
+    },
+    {
+        "weaponname": "Alligator",
+        "weapon_id": "1540150607",
+        "gallery_number": "115"
+    },
+    {
+        "weaponname": "Hippo",
+        "weapon_id": "1188457118",
+        "gallery_number": "116"
+    },
+    {
+        "weaponname": "Alien Cannon",
+        "weapon_id": "1106795835",
+        "gallery_number": "117"
+    },
+    {
+        "weaponname": "Alien Blaster",
+        "weapon_id": "2016348959",
+        "gallery_number": "118"
+    },
+    {
+        "weaponname": "Bouquet",
+        "weapon_id": "1546678539",
+        "gallery_number": "119"
+    },
+    {
+        "weaponname": "Mr Deejay",
+        "weapon_id": "828812647",
+        "gallery_number": "120"
+    },
+    {
+        "weaponname": "Just A Hand",
+        "weapon_id": "???",
+        "gallery_number": "121"
+    },
+    {
+        "weaponname": "Cupid's Bow",
+        "weapon_id": "1416378535",
+        "gallery_number": "122"
+    },
+    {
+        "weaponname": "Social Uzi",
+        "weapon_id": "1513342399",
+        "gallery_number": "123"
+    },
+    {
+        "weaponname": "Alien Rifle",
+        "weapon_id": "1655060256",
+        "gallery_number": "124"
+    },
+    {
+        "weaponname": "Vacuumizer",
+        "weapon_id": "1727039501",
+        "gallery_number": "125"
+    },
+    {
+        "weaponname": "Fireworks Launcher",
+        "weapon_id": "850220603",
+        "gallery_number": "126"
+    },
+    {
+        "weaponname": "Shotgun Pistol",
+        "weapon_id": "655866854",
+        "gallery_number": "127"
+    },
+    {
+        "weaponname": "Ranger Rifle",
+        "weapon_id": "451738154",
+        "gallery_number": "128"
+    },
+    {
+        "weaponname": "Pitbull",
+        "weapon_id": "41115617",
+        "gallery_number": "129"
+    },
+    {
+        "weaponname": "Tiger",
+        "weapon_id": "1964117948",
+        "gallery_number": "130"
+    },
+    {
+        "weaponname": "Balloon Cannon",
+        "weapon_id": "29459173",
+        "gallery_number": "131"
+    },
+    {
+        "weaponname": "Mech Heavy Rifle",
+        "weapon_id": "1962519210",
+        "gallery_number": "132"
+    },
+    {
+        "weaponname": "Shuriken Thrower",
+        "weapon_id": "1651362895",
+        "gallery_number": "133"
+    },
+    {
+        "weaponname": "Flamethrower",
+        "weapon_id": "165782855",
+        "gallery_number": "134"
+    },
+    {
+        "weaponname": "Snowball",
+        "weapon_id": "1783793676",
+        "gallery_number": "135"
+    },
+    {
+        "weaponname": "Mystical Ore Emitter",
+        "weapon_id": "868503779",
+        "gallery_number": "136"
+    },
+    {
+        "weaponname": "Laser Crossbow",
+        "weapon_id": "466705066",
+        "gallery_number": "137"
+    },
+    {
+        "weaponname": "Nutcracker",
+        "weapon_id": "1733874210",
+        "gallery_number": "138"
+    },
+    {
+        "weaponname": "Space Rifle",
+        "weapon_id": "809008095",
+        "gallery_number": "139"
+    },
+    {
+        "weaponname": "Icicle Minigun",
+        "weapon_id": "1849793737",
+        "gallery_number": "140"
+    },
+    {
+        "weaponname": "Portable Death Moon",
+        "weapon_id": "77089832",
+        "gallery_number": "141"
+    },
+    {
+        "weaponname": "Candy Baton",
+        "weapon_id": "1122116926",
+        "gallery_number": "142"
+    },
+    {
+        "weaponname": "Hockey Stick",
+        "weapon_id": "1905784464",
+        "gallery_number": "143"
+    },
+    {
+        "weaponname": "Space Blaster",
+        "weapon_id": "1107890230",
+        "gallery_number": "144"
+    },
+    {
+        "weaponname": "Golden Friend",
+        "weapon_id": "1816233236",
+        "gallery_number": "145"
+    },
+    {
+        "weaponname": "Ka-Boom!",
+        "weapon_id": "1391153840",
+        "gallery_number": "146"
+    },
+    {
+        "weaponname": "Dual Shotguns",
+        "weapon_id": "1095634626",
+        "gallery_number": "147"
+    },
+    {
+        "weaponname": "Anti-Hero Rifle",
+        "weapon_id": "113332983",
+        "gallery_number": "148"
+    },
+    {
+        "weaponname": "Harpoon Gun",
+        "weapon_id": "15233699",
+        "gallery_number": "149"
+    },
+    {
+        "weaponname": "Red Twins",
+        "weapon_id": "647277830",
+        "gallery_number": "150"
+    },
+    {
+        "weaponname": "Poison Hunter",
+        "weapon_id": "1706510688",
+        "gallery_number": "151"
+    },
+    {
+        "weaponname": "Nuclear Revolver",
+        "weapon_id": "1456230955",
+        "gallery_number": "152"
+    },
+    {
+        "weaponname": "Nail Minigun",
+        "weapon_id": "25864854",
+        "gallery_number": "153"
+    },
+    {
+        "weaponname": "Dual Machete",
+        "weapon_id": "2015839596",
+        "gallery_number": "154"
+    },
+    {
+        "weaponname": "Infiltrator",
+        "weapon_id": "2116432073",
+        "gallery_number": "155"
+    },
+    {
+        "weaponname": "Gas Launcher",
+        "weapon_id": "488568844",
+        "gallery_number": "156"
+    },
+    {
+        "weaponname": "Laser Bouncer",
+        "weapon_id": "1772450561",
+        "gallery_number": "157"
+    },
+    {
+        "weaponname": "Fireball Spell",
+        "weapon_id": "1248175944",
+        "gallery_number": "158"
+    },
+    {
+        "weaponname": "Frost Beam Spell",
+        "weapon_id": "471080910",
+        "gallery_number": "159"
+    },
+    {
+        "weaponname": "Thunder Spell",
+        "weapon_id": "1600707147",
+        "gallery_number": "160"
+    },
+    {
+        "weaponname": "Turbo Pistols",
+        "weapon_id": "2051334990",
+        "gallery_number": "161"
+    },
+    {
+        "weaponname": "Laser Bow",
+        "weapon_id": "102010226",
+        "gallery_number": "162"
+    },
+    {
+        "weaponname": "Loud Piggy",
+        "weapon_id": "2013066445",
+        "gallery_number": "163"
+    },
+    {
+        "weaponname": "Trapper",
+        "weapon_id": "1404419636",
+        "gallery_number": "164"
+    },
+    {
+        "weaponname": "Chainsaw Sword",
+        "weapon_id": "1747957594",
+        "gallery_number": "165"
+    },
+    {
+        "weaponname": "Dead Star",
+        "weapon_id": "21638171",
+        "gallery_number": "166"
+    },
+    {
+        "weaponname": "Toy Bomber",
+        "weapon_id": "2032407540",
+        "gallery_number": "167"
+    },
+    {
+        "weaponname": "Zombie Head",
+        "weapon_id": "84907129",
+        "gallery_number": "168"
+    },
+    {
+        "weaponname": "Mr Squido",
+        "weapon_id": "676495049",
+        "gallery_number": "169"
+    },
+    {
+        "weaponname": "Rocket Crossbow",
+        "weapon_id": "1647273766",
+        "gallery_number": "170"
+    },
+    {
+        "weaponname": "Spark Shark",
+        "weapon_id": "960280143",
+        "gallery_number": "171"
+    },
+    {
+        "weaponname": "Power Claw",
+        "weapon_id": "1453971113",
+        "gallery_number": "172"
+    },
+    {
+        "weaponname": "Zombie Slayer",
+        "weapon_id": "654589861",
+        "gallery_number": "173"
+    },
+    {
+        "weaponname": "Acid Cannon",
+        "weapon_id": "689032414",
+        "gallery_number": "174"
+    },
+    {
+        "weaponname": "Frank Sheepone",
+        "weapon_id": "2130060966",
+        "gallery_number": "175"
+    },
+    {
+        "weaponname": "Ghost Lantern",
+        "weapon_id": "1040877358",
+        "gallery_number": "176"
+    },
+    {
+        "weaponname": "Semi Auto Sniper Rifle",
+        "weapon_id": "2099686233",
+        "gallery_number": "177"
+    },
+    {
+        "weaponname": "Electromagnetic Cannon",
+        "weapon_id": "1363209448",
+        "gallery_number": "178"
+    },
+    {
+        "weaponname": "Barrier Rifle",
+        "weapon_id": "1395516779",
+        "gallery_number": "179"
+    },
+    {
+        "weaponname": "Demoman",
+        "weapon_id": "958600885",
+        "gallery_number": "180"
+    },
+    {
+        "weaponname": "Charge Rifle",
+        "weapon_id": "1350610897",
+        "gallery_number": "181"
+    },
+    {
+        "weaponname": "Minigun Pistol",
+        "weapon_id": "1484872473",
+        "gallery_number": "182"
+    },
+    {
+        "weaponname": "Bad Doctor",
+        "weapon_id": "42798563",
+        "gallery_number": "183"
+    },
+    {
+        "weaponname": "Dual Laser Blasters",
+        "weapon_id": "1518581425",
+        "gallery_number": "184"
+    },
+    {
+        "weaponname": "Toxic Bane",
+        "weapon_id": "1658878302",
+        "gallery_number": "185"
+    },
+    {
+        "weaponname": "Charge Cannon",
+        "weapon_id": "1776086294",
+        "gallery_number": "186"
+    },
+    {
+        "weaponname": "Heavy Shocker",
+        "weapon_id": "2118467187",
+        "gallery_number": "187"
+    },
+    {
+        "weaponname": "Ruler Sword",
+        "weapon_id": "264489712",
+        "gallery_number": "188"
+    },
+    {
+        "weaponname": "Pencil Thrower",
+        "weapon_id": "855850785",
+        "gallery_number": "189"
+    },
+    {
+        "weaponname": "Napalm Cannon",
+        "weapon_id": "???",
+        "gallery_number": "190"
+    },
+    {
+        "weaponname": "Sword of Shadows",
+        "weapon_id": "???",
+        "gallery_number": "191"
+    },
+    {
+        "weaponname": "Dracula",
+        "weapon_id": "1421619724",
+        "gallery_number": "192"
+    },
+    {
+        "weaponname": "X-Mas Destroyer",
+        "weapon_id": "1371796097",
+        "gallery_number": "193"
+    },
+    {
+        "weaponname": "Santa Sword",
+        "weapon_id": "1013072275",
+        "gallery_number": "194"
+    },
+    {
+        "weaponname": "Snow Storm",
+        "weapon_id": "1567492705",
+        "gallery_number": "195"
+    },
+    {
+        "weaponname": "Heavy Gifter",
+        "weapon_id": "1751486255",
+        "gallery_number": "196"
+    },
+    {
+        "weaponname": "Bell Revolver",
+        "weapon_id": "1043255647",
+        "gallery_number": "197"
+    },
+    {
+        "weaponname": "Elf's Revenge",
+        "weapon_id": "789658983",
+        "gallery_number": "198"
+    },
+    {
+        "weaponname": "Photon Sniper Rifle",
+        "weapon_id": "1874185457",
+        "gallery_number": "199"
+    },
+    {
+        "weaponname": "Sub Zero",
+        "weapon_id": "1489152342",
+        "gallery_number": "200"
+    },
+    {
+        "weaponname": "Mercenary",
+        "weapon_id": "1167029186",
+        "gallery_number": "201"
+    },
+    {
+        "weaponname": "Laser Spear",
+        "weapon_id": "1590607959",
+        "gallery_number": "202"
+    },
+    {
+        "weaponname": "Nunchucks",
+        "weapon_id": "878817487",
+        "gallery_number": "203"
+    },
+    {
+        "weaponname": "Double Dragon",
+        "weapon_id": "1005092095",
+        "gallery_number": "204"
+    },
+    {
+        "weaponname": "Love Spell",
+        "weapon_id": "410114139",
+        "gallery_number": "205"
+    },
+    {
+        "weaponname": "Casanova",
+        "weapon_id": "587726852",
+        "gallery_number": "206"
+    },
+    {
+        "weaponname": "Romeo & Juliet",
+        "weapon_id": "1920507363",
+        "gallery_number": "207"
+    },
+    {
+        "weaponname": "Grenadier",
+        "weapon_id": "353204501",
+        "gallery_number": "208"
+    },
+    {
+        "weaponname": "Impulse Minigun",
+        "weapon_id": "1384690802",
+        "gallery_number": "209"
+    },
+    {
+        "weaponname": "Electric Arc",
+        "weapon_id": "1507592096",
+        "gallery_number": "210"
+    },
+    {
+        "weaponname": "Railgun",
+        "weapon_id": "1506660624",
+        "gallery_number": "211"
+    },
+    {
+        "weaponname": "Rocket Jumper",
+        "weapon_id": "1870018003",
+        "gallery_number": "212"
+    },
+    {
+        "weaponname": "Assault Shotgun",
+        "weapon_id": "1405957088",
+        "gallery_number": "213"
+    },
+    {
+        "weaponname": "Plasma Spreader",
+        "weapon_id": "1014954371",
+        "gallery_number": "214"
+    },
+    {
+        "weaponname": "Meat Grinder",
+        "weapon_id": "1198111645",
+        "gallery_number": "215"
+    },
+    {
+        "weaponname": "Big Fatality Gun",
+        "weapon_id": "809347229",
+        "gallery_number": "216"
+    },
+    {
+        "weaponname": "Blade of Justice",
+        "weapon_id": "???",
+        "gallery_number": "217"
+    },
+    {
+        "weaponname": "Minigun Shotgun",
+        "weapon_id": "128859145",
+        "gallery_number": "218"
+    },
+    {
+        "weaponname": "Tactical Tomahawk",
+        "weapon_id": "1318097758",
+        "gallery_number": "219"
+    },
+    {
+        "weaponname": "Masterpiece Musket",
+        "weapon_id": "1329849926",
+        "gallery_number": "220"
+    },
+    {
+        "weaponname": "Executioner",
+        "weapon_id": "1504130469",
+        "gallery_number": "221"
+    },
+    {
+        "weaponname": "Serious Argument",
+        "weapon_id": "1455524742",
+        "gallery_number": "222"
+    },
+    {
+        "weaponname": "Piranha",
+        "weapon_id": "1336255949",
+        "gallery_number": "223"
+    },
+    {
+        "weaponname": "One Shot",
+        "weapon_id": "1371223402",
+        "gallery_number": "224"
+    },
+    {
+        "weaponname": "Impulse Rifle",
+        "weapon_id": "1135484933",
+        "gallery_number": "225"
+    },
+    {
+        "weaponname": "Combat Yo-Yo",
+        "weapon_id": "1181222766",
+        "gallery_number": "226"
+    },
+    {
+        "weaponname": "Orbital Pistol",
+        "weapon_id": "1864721021",
+        "gallery_number": "227"
+    },
+    {
+        "weaponname": "Law Enforcer",
+        "weapon_id": "368760808",
+        "gallery_number": "228"
+    },
+    {
+        "weaponname": "Fidget Thrower",
+        "weapon_id": "647239499",
+        "gallery_number": "229"
+    },
+    {
+        "weaponname": "Celebrational Bazooka",
+        "weapon_id": "971141154",
+        "gallery_number": "230"
+    },
+    {
+        "weaponname": "Thunderer",
+        "weapon_id": "795753071",
+        "gallery_number": "231"
+    },
+    {
+        "weaponname": "Bomber Slinger",
+        "weapon_id": "1429954965",
+        "gallery_number": "232"
+    },
+    {
+        "weaponname": "Future Sniper Rifle",
+        "weapon_id": "70930368",
+        "gallery_number": "233"
+    },
+    {
+        "weaponname": "BEAST",
+        "weapon_id": "2045231249",
+        "gallery_number": "234"
+    },
+    {
+        "weaponname": "Invader",
+        "weapon_id": "1800008951",
+        "gallery_number": "235"
+    },
+    {
+        "weaponname": "Core Sword",
+        "weapon_id": "410610785",
+        "gallery_number": "236"
+    },
+    {
+        "weaponname": "Hedgehog",
+        "weapon_id": "863392747",
+        "gallery_number": "237"
+    },
+    {
+        "weaponname": "Third Eye",
+        "weapon_id": "150121465",
+        "gallery_number": "238"
+    },
+    {
+        "weaponname": "Eraser",
+        "weapon_id": "2014352882",
+        "gallery_number": "239"
+    },
+    {
+        "weaponname": "Excalibur",
+        "weapon_id": "893029663",
+        "gallery_number": "240"
+    },
+    {
+        "weaponname": "Poseidon Trident",
+        "weapon_id": "371505332",
+        "gallery_number": "241"
+    },
+    {
+        "weaponname": "Reaper",
+        "weapon_id": "1022557565",
+        "gallery_number": "242"
+    },
+    {
+        "weaponname": "Void Ray Rifle",
+        "weapon_id": "1797345602",
+        "gallery_number": "243"
+    },
+    {
+        "weaponname": "Black Mamba",
+        "weapon_id": "1419393306",
+        "gallery_number": "244"
+    },
+    {
+        "weaponname": "Chip Sword",
+        "weapon_id": "2132707214",
+        "gallery_number": "245"
+    },
+    {
+        "weaponname": "Vampire Hunter",
+        "weapon_id": "595884483",
+        "gallery_number": "246"
+    },
+    {
+        "weaponname": "Mountain Wolf",
+        "weapon_id": "565845318",
+        "gallery_number": "247"
+    },
+    {
+        "weaponname": "Hurricane",
+        "weapon_id": "176308765",
+        "gallery_number": "248"
+    },
+    {
+        "weaponname": "Dino Slayer",
+        "weapon_id": "873685979",
+        "gallery_number": "249"
+    },
+    {
+        "weaponname": "Soulstone",
+        "weapon_id": "2063570118",
+        "gallery_number": "250"
+    },
+    {
+        "weaponname": "Electrosphere",
+        "weapon_id": "2122697827",
+        "gallery_number": "251"
+    },
+    {
+        "weaponname": "Prototype S",
+        "weapon_id": "7757938",
+        "gallery_number": "252"
+    },
+    {
+        "weaponname": "Frozen Dragon",
+        "weapon_id": "135943802",
+        "gallery_number": "253"
+    },
+    {
+        "weaponname": "Special Agent",
+        "weapon_id": "1363249675",
+        "gallery_number": "254"
+    },
+    {
+        "weaponname": "Power Fists",
+        "weapon_id": "1332757687",
+        "gallery_number": "255"
+    },
+    {
+        "weaponname": "Undertaker",
+        "weapon_id": "1657734870",
+        "gallery_number": "256"
+    },
+    {
+        "weaponname": "Astral Bow",
+        "weapon_id": "1335353522",
+        "gallery_number": "257"
+    },
+    {
+        "weaponname": "Zeus Chain-Sword",
+        "weapon_id": "892820309",
+        "gallery_number": "258"
+    },
+    {
+        "weaponname": "Music Lover",
+        "weapon_id": "826783148",
+        "gallery_number": "259"
+    },
+    {
+        "weaponname": "Veteran",
+        "weapon_id": "951101391",
+        "gallery_number": "260"
+    },
+    {
+        "weaponname": "Mini Alien Spaceship",
+        "weapon_id": "1945915426",
+        "gallery_number": "261"
+    },
+    {
+        "weaponname": "Flag Keeper",
+        "weapon_id": "743341779",
+        "gallery_number": "262"
+    },
+    {
+        "weaponname": "Leader's Sword",
+        "weapon_id": "1102765058",
+        "gallery_number": "263"
+    },
+    {
+        "weaponname": "Christmas Ultimatum",
+        "weapon_id": "1248246573",
+        "gallery_number": "264"
+    },
+    {
+        "weaponname": "Laser Assistant",
+        "weapon_id": "1959988946",
+        "gallery_number": "265"
+    },
+    {
+        "weaponname": "Dual Cryo Pistols",
+        "weapon_id": "1863825957",
+        "gallery_number": "266"
+    },
+    {
+        "weaponname": "Automatic Decorator",
+        "weapon_id": "1171036533",
+        "gallery_number": "267"
+    },
+    {
+        "weaponname": "Elder Force Saber",
+        "weapon_id": "1266613592",
+        "gallery_number": "268"
+    },
+    {
+        "weaponname": "Champion Mercenary",
+        "weapon_id": "897355222",
+        "gallery_number": "269"
+    },
+    {
+        "weaponname": "Champion Peacemaker",
+        "weapon_id": "502193192",
+        "gallery_number": "270"
+    },
+    {
+        "weaponname": "Adamant Laser Cannon",
+        "weapon_id": "1709938850",
+        "gallery_number": "271"
+    },
+    {
+        "weaponname": "Adamant Revolver",
+        "weapon_id": "209084956",
+        "gallery_number": "272"
+    },
+    {
+        "weaponname": "Adamant Spear",
+        "weapon_id": "1411145968",
+        "gallery_number": "273"
+    },
+    {
+        "weaponname": "Champion Electric Arc",
+        "weapon_id": "2140910574",
+        "gallery_number": "274"
+    },
+    {
+        "weaponname": "Adamant Sniper Rifle",
+        "weapon_id": "326222069",
+        "gallery_number": "275"
+    },
+    {
+        "weaponname": "Anti-Champion Rifle",
+        "weapon_id": "541561063",
+        "gallery_number": "276"
+    },
+    {
+        "weaponname": "Champion Solar Cannon",
+        "weapon_id": "460465183",
+        "gallery_number": "277"
+    },
+    {
+        "weaponname": "Adamant Bomber",
+        "weapon_id": "2040283972",
+        "gallery_number": "278"
+    },
+    {
+        "weaponname": "Sharp Snowflake",
+        "weapon_id": "12135407",
+        "gallery_number": "279"
+    },
+    {
+        "weaponname": "Little Cthulhu",
+        "weapon_id": "1450740466",
+        "gallery_number": "280"
+    },
+    {
+        "weaponname": "Curse Spell",
+        "weapon_id": "9877704",
+        "gallery_number": "281"
+    },
+    {
+        "weaponname": "Airblade Spell",
+        "weapon_id": "79025229",
+        "gallery_number": "282"
+    },
+    {
+        "weaponname": "Poison Spell",
+        "weapon_id": "1364248464",
+        "gallery_number": "283"
+    },
+    {
+        "weaponname": "Earth Spike Spell",
+        "weapon_id": "184978574",
+        "gallery_number": "284"
+    },
+    {
+        "weaponname": "Shadow Spell",
+        "weapon_id": "1896631276",
+        "gallery_number": "285"
+    },
+    {
+        "weaponname": "Dragon King",
+        "weapon_id": "412928869",
+        "gallery_number": "286"
+    },
+    {
+        "weaponname": "Angry Pumpkin",
+        "weapon_id": "1314394804",
+        "gallery_number": "287"
+    },
+    {
+        "weaponname": "Steampunk Fists",
+        "weapon_id": "1864200475",
+        "gallery_number": "268"
+    },
+    {
+        "weaponname": "Electro-Blast Pistol",
+        "weapon_id": "729206483",
+        "gallery_number": "289"
+    },
+    {
+        "weaponname": "Wyvern",
+        "weapon_id": "347810221",
+        "gallery_number": "290"
+    },
+    {
+        "weaponname": "Hero",
+        "weapon_id": "2035792426",
+        "gallery_number": "291"
+    },
+    {
+        "weaponname": "Sly Avenger",
+        "weapon_id": "1912233109",
+        "gallery_number": "292"
+    },
+    {
+        "weaponname": "Reflector",
+        "weapon_id": "1605913147",
+        "gallery_number": "293"
+    },
+    {
+        "weaponname": "Sakura",
+        "weapon_id": "1639266271",
+        "gallery_number": "294"
+    },
+    {
+        "weaponname": "Deadly Beat",
+        "weapon_id": "1384373144",
+        "gallery_number": "295"
+    },
+    {
+        "weaponname": "Killer Whale",
+        "weapon_id": "1076528353",
+        "gallery_number": "296"
+    },
+    {
+        "weaponname": "Renegade",
+        "weapon_id": "1392202847",
+        "gallery_number": "297"
+    },
+    {
+        "weaponname": "Demon Sword",
+        "weapon_id": "1874590435",
+        "gallery_number": "298"
+    },
+    {
+        "weaponname": "Emperor's Servants",
+        "weapon_id": "199100595",
+        "gallery_number": "299"
+    },
+    {
+        "weaponname": "Storm Trooper Exoskeleton",
+        "weapon_id": "1195715480",
+        "gallery_number": "300"
+    },
+    {
+        "weaponname": "Sniper Exoskeleton",
+        "weapon_id": "898278519",
+        "gallery_number": "301"
+    },
+    {
+        "weaponname": "Demolition Exoskeleton",
+        "weapon_id": "557291766",
+        "gallery_number": "302"
+    },
+    {
+        "weaponname": "Hitman Exoskeleton",
+        "weapon_id": "822804123",
+        "gallery_number": "303"
+    },
+    {
+        "weaponname": "Berserk Exoskeleton",
+        "weapon_id": "2097999502",
+        "gallery_number": "304"
+    },
+    {
+        "weaponname": "Engineer Exoskeleton",
+        "weapon_id": "1282278113",
+        "gallery_number": "305"
+    },
+    {
+        "weaponname": "Death Claws",
+        "weapon_id": "1670383977",
+        "gallery_number": "306"
+    },
+    {
+        "weaponname": "Eva",
+        "weapon_id": "564969152",
+        "gallery_number": "307"
+    },
+    {
+        "weaponname": "Space Disinfector",
+        "weapon_id": "617554410",
+        "gallery_number": "308"
+    },
+    {
+        "weaponname": "Mega Gun",
+        "weapon_id": "1430202317",
+        "gallery_number": "309"
+    },
+    {
+        "weaponname": "Laser Revolver",
+        "weapon_id": "1948515413",
+        "gallery_number": "310"
+    },
+    {
+        "weaponname": "Sword & Shield",
+        "weapon_id": "852138513",
+        "gallery_number": "311"
+    },
+    {
+        "weaponname": "Last Samurai",
+        "weapon_id": "869256697",
+        "gallery_number": "312"
+    },
+    {
+        "weaponname": "Manga Gun",
+        "weapon_id": "1625648411",
+        "gallery_number": "313"
+    },
+    {
+        "weaponname": "Anime Scythe",
+        "weapon_id": "1943131553",
+        "gallery_number": "314"
+    },
+    {
+        "weaponname": "Nitrogen Sprayer",
+        "weapon_id": "74204451",
+        "gallery_number": "315"
+    },
+    {
+        "weaponname": "Future Police Rifle",
+        "weapon_id": "1418657825",
+        "gallery_number": "316"
+    },
+    {
+        "weaponname": "Stakegun",
+        "weapon_id": "1958980774",
+        "gallery_number": "317"
+    },
+    {
+        "weaponname": "Monster Blaster",
+        "weapon_id": "2060462991",
+        "gallery_number": "318"
+    },
+    {
+        "weaponname": "Plasma Cutter",
+        "weapon_id": "878725858",
+        "gallery_number": "319"
+    },
+    {
+        "weaponname": "Good Doctor",
+        "weapon_id": "921240249",
+        "gallery_number": "320"
+    },
+    {
+        "weaponname": "Devastator",
+        "weapon_id": "133779209",
+        "gallery_number": "321"
+    },
+    {
+        "weaponname": "Supercharged Rifle",
+        "weapon_id": "1872597034",
+        "gallery_number": "322"
+    },
+    {
+        "weaponname": "Archangel",
+        "weapon_id": "1958755441",
+        "gallery_number": "323"
+    },
+    {
+        "weaponname": "Manticore",
+        "weapon_id": "1738228234",
+        "gallery_number": "324"
+    },
+    {
+        "weaponname": "Soul Thief",
+        "weapon_id": "1848878114",
+        "gallery_number": "325"
+    },
+    {
+        "weaponname": "Multitaskers",
+        "weapon_id": "1722544446",
+        "gallery_number": "326"
+    },
+    {
+        "weaponname": "Good & Evil",
+        "weapon_id": "167949038",
+        "gallery_number": "327"
+    },
+    {
+        "weaponname": "Last Hope",
+        "weapon_id": "1983176375",
+        "gallery_number": "328"
+    },
+    {
+        "weaponname": "Jet Tenderizer",
+        "weapon_id": "473680224",
+        "gallery_number": "329"
+    },
+    {
+        "weaponname": "Energy Drill",
+        "weapon_id": "1960042632",
+        "gallery_number": "330"
+    },
+    {
+        "weaponname": "Spender",
+        "weapon_id": "214675227",
+        "gallery_number": "331"
+    },
+    {
+        "weaponname": "Pizza Heater",
+        "weapon_id": "178668396",
+        "gallery_number": "332"
+    },
+    {
+        "weaponname": "Acid Pistol",
+        "weapon_id": "1288694409",
+        "gallery_number": "333"
+    },
+    {
+        "weaponname": "Rhino",
+        "weapon_id": "2115991872",
+        "gallery_number": "334"
+    },
+    {
+        "weaponname": "Antique Pistol",
+        "weapon_id": "976731461",
+        "gallery_number": "335"
+    },
+    {
+        "weaponname": "Lava Thrower",
+        "weapon_id": "1242808896",
+        "gallery_number": "336"
+    },
+    {
+        "weaponname": "Inventor's Rifle",
+        "weapon_id": "1855728403",
+        "gallery_number": "337"
+    },
+    {
+        "weaponname": "Vandals",
+        "weapon_id": "1463618411",
+        "gallery_number": "338"
+    },
+    {
+        "weaponname": "Revolver Sniper Rifle",
+        "weapon_id": "451126064",
+        "gallery_number": "339"
+    },
+    {
+        "weaponname": "Captain",
+        "weapon_id": "1171063542",
+        "gallery_number": "340"
+    },
+    {
+        "weaponname": "Void Energy Pistol",
+        "weapon_id": "454266095",
+        "gallery_number": "341"
+    },
+    {
+        "weaponname": "Destruction System",
+        "weapon_id": "2138750298",
+        "gallery_number": "342"
+    },
+    {
+        "weaponname": "Circus Cannon",
+        "weapon_id": "1895982133",
+        "gallery_number": "343"
+    },
+    {
+        "weaponname": "Military Grenade Launcher",
+        "weapon_id": "1366091427",
+        "gallery_number": "344"
+    },
+    {
+        "weaponname": "Cyborg Hands",
+        "weapon_id": "1911133265",
+        "gallery_number": "345"
+    },
+    {
+        "weaponname": "Ritual Blade",
+        "weapon_id": "1279077780",
+        "gallery_number": "346"
+    },
+    {
+        "weaponname": "Tactical Rifle",
+        "weapon_id": "498887558",
+        "gallery_number": "347"
+    },
+    {
+        "weaponname": "Sparkling Eel",
+        "weapon_id": "1585835254",
+        "gallery_number": "348"
+    },
+    {
+        "weaponname": "Alien Sniper Rifle",
+        "weapon_id": "1759583020",
+        "gallery_number": "349"
+    },
+    {
+        "weaponname": "Neutralizer",
+        "weapon_id": "179250437",
+        "gallery_number": "350"
+    },
+    {
+        "weaponname": "Bone Sniper Rifle",
+        "weapon_id": "990739517",
+        "gallery_number": "351"
+    },
+    {
+        "weaponname": "Prehistoric Shotgun",
+        "weapon_id": "1371269589",
+        "gallery_number": "352"
+    },
+    {
+        "weaponname": "Shaman's Bow",
+        "weapon_id": "482026758",
+        "gallery_number": "353"
+    },
+    {
+        "weaponname": "Poison Darts",
+        "weapon_id": "1016985459",
+        "gallery_number": "354"
+    },
+    {
+        "weaponname": "Primal Beast",
+        "weapon_id": "1452842297",
+        "gallery_number": "355"
+    },
+    {
+        "weaponname": "Eye of Ra",
+        "weapon_id": "1985164423",
+        "gallery_number": "356"
+    },
+    {
+        "weaponname": "Gum Rifle",
+        "weapon_id": "1159014012",
+        "gallery_number": "357"
+    },
+    {
+        "weaponname": "Bone Crusher",
+        "weapon_id": "1257240225",
+        "gallery_number": "358"
+    },
+    {
+        "weaponname": "Soda Launcher",
+        "weapon_id": "1737528700",
+        "gallery_number": "359"
+    },
+    {
+        "weaponname": "Rocket Launcher",
+        "weapon_id": "309158381",
+        "gallery_number": "360"
+    },
+    {
+        "weaponname": "Royal Fighter",
+        "weapon_id": "262029414",
+        "gallery_number": "361"
+    },
+    {
+        "weaponname": "Royal Revolver",
+        "weapon_id": "1660865762",
+        "gallery_number": "362"
+    },
+    {
+        "weaponname": "Royal Sniper Rifle",
+        "weapon_id": "1081432919",
+        "gallery_number": "363"
+    },
+    {
+        "weaponname": "Royal Ashbringer",
+        "weapon_id": "1823383590",
+        "gallery_number": "364"
+    },
+    {
+        "weaponname": "Dagger Shovels",
+        "weapon_id": "1533234933",
+        "gallery_number": "365"
+    },
+    {
+        "weaponname": "Worker Shovel",
+        "weapon_id": "1569707578",
+        "gallery_number": "366"
+    },
+    {
+        "weaponname": "Sniper Shovel",
+        "weapon_id": "1336167783",
+        "gallery_number": "367"
+    },
+    {
+        "weaponname": "Gold Shovel",
+        "weapon_id": "1835360086",
+        "gallery_number": "368"
+    },
+    {
+        "weaponname": "Jet Shovel",
+        "weapon_id": "632133699",
+        "gallery_number": "369"
+    },
+    {
+        "weaponname": "Laser Shovel",
+        "weapon_id": "931668219",
+        "gallery_number": "370"
+    },
+    {
+        "weaponname": "Monster Shovel",
+        "weapon_id": "248312590",
+        "gallery_number": "371"
+    },
+    {
+        "weaponname": "Penilizer",
+        "weapon_id": "1607162392",
+        "gallery_number": "372"
+    },
+    {
+        "weaponname": "Fan's Revolver",
+        "weapon_id": "1090082601",
+        "gallery_number": "373"
+    },
+    {
+        "weaponname": "Football Cannon",
+        "weapon_id": "210302673",
+        "gallery_number": "374"
+    },
+    {
+        "weaponname": "Shovel Axe",
+        "weapon_id": "1614920858",
+        "gallery_number": "375"
+    },
+    {
+        "weaponname": "Cursed Pirate",
+        "weapon_id": "853503992",
+        "gallery_number": "376"
+    },
+    {
+        "weaponname": "Viking",
+        "weapon_id": "738521152",
+        "gallery_number": "377"
+    },
+    {
+        "weaponname": "Gladiator",
+        "weapon_id": "371986811",
+        "gallery_number": "378"
+    },
+    {
+        "weaponname": "Heart of Volcano",
+        "weapon_id": "842494181",
+        "gallery_number": "379"
+    },
+    {
+        "weaponname": "Not a Shovel",
+        "weapon_id": "1186018311",
+        "gallery_number": "380"
+    },
+    {
+        "weaponname": "Chainsaw Shovel",
+        "weapon_id": "837504610",
+        "gallery_number": "381"
+    },
+    {
+        "weaponname": "Clan Legend Shovel",
+        "weapon_id": "458439248",
+        "gallery_number": "382"
+    },
+    {
+        "weaponname": "Shovel Road Sign",
+        "weapon_id": "1645128296",
+        "gallery_number": "383"
+    },
+    {
+        "weaponname": "Cactus Shovel",
+        "weapon_id": "1855838559",
+        "gallery_number": "384"
+    },
+    {
+        "weaponname": "Toy hammer",
+        "weapon_id": "1026730751",
+        "gallery_number": "385"
+    },
+    {
+        "weaponname": "Blighter",
+        "weapon_id": "805550922",
+        "gallery_number": "386"
+    },
+    {
+        "weaponname": "Neon Fighter",
+        "weapon_id": "1898890602",
+        "gallery_number": "387"
+    },
+    {
+        "weaponname": "Warmaster",
+        "weapon_id": "1659578818",
+        "gallery_number": "388"
+    },
+    {
+        "weaponname": "Combat Slinger",
+        "weapon_id": "866242993",
+        "gallery_number": "389"
+    },
+    {
+        "weaponname": "Paintball Rifle",
+        "weapon_id": "252218986",
+        "gallery_number": "390"
+    },
+    {
+        "weaponname": "Laser Rings",
+        "weapon_id": "654845472",
+        "gallery_number": "391"
+    },
+    {
+        "weaponname": "Particle Accelerator",
+        "weapon_id": "857527756",
+        "gallery_number": "392"
+    },
+    {
+        "weaponname": "Ritual Revolvers",
+        "weapon_id": "1706922947",
+        "gallery_number": "393"
+    },
+    {
+        "weaponname": "Spell of Bats",
+        "weapon_id": "1303878156",
+        "gallery_number": "394"
+    },
+    {
+        "weaponname": "Deadman's Rifle",
+        "weapon_id": "1218687644",
+        "gallery_number": "395"
+    },
+    {
+        "weaponname": "Witchunter",
+        "weapon_id": "1961402513",
+        "gallery_number": "396"
+    },
+    {
+        "weaponname": "Industrial Nailer",
+        "weapon_id": "1941486921",
+        "gallery_number": "397"
+    },
+    {
+        "weaponname": "Trick and Treat",
+        "weapon_id": "90884672",
+        "gallery_number": "398"
+    },
+    {
+        "weaponname": "Ghost Launcher",
+        "weapon_id": "843254154",
+        "gallery_number": "399"
+    },
+    {
+        "weaponname": "Poisonous Vine",
+        "weapon_id": "562947852",
+        "gallery_number": "400"
+    },
+    {
+        "weaponname": "Johnny P",
+        "weapon_id": "667359767",
+        "gallery_number": "401"
+    },
+    {
+        "weaponname": "Witch Broom",
+        "weapon_id": "181225391",
+        "gallery_number": "402"
+    },
+    {
+        "weaponname": "Cyber Slicer",
+        "weapon_id": "116391216",
+        "gallery_number": "403"
+    },
+    {
+        "weaponname": "Ricochet Rifle",
+        "weapon_id": "1833819566",
+        "gallery_number": "404"
+    },
+    {
+        "weaponname": "Cyber Revolver",
+        "weapon_id": "1591543843",
+        "gallery_number": "405"
+    },
+    {
+        "weaponname": "Neon Lightning",
+        "weapon_id": "1630787311",
+        "gallery_number": "406"
+    },
+    {
+        "weaponname": "Quadruple Death",
+        "weapon_id": "1104483054",
+        "gallery_number": "407"
+    },
+    {
+        "weaponname": "Cops Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "408"
+    },
+    {
+        "weaponname": "Cyber Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "409"
+    },
+    {
+        "weaponname": "Rocket Hands",
+        "weapon_id": "1180736458",
+        "gallery_number": "410"
+    },
+    {
+        "weaponname": "Cyber Laser",
+        "weapon_id": "278021637",
+        "gallery_number": "411"
+    },
+    {
+        "weaponname": "Skull Crossbow",
+        "weapon_id": "1099592644",
+        "gallery_number": "412"
+    },
+    {
+        "weaponname": "Shovel Hell",
+        "weapon_id": "N/A",
+        "gallery_number": "413"
+    },
+    {
+        "weaponname": "Sniper Cyber Module",
+        "weapon_id": "1135397716",
+        "gallery_number": "414"
+    },
+    {
+        "weaponname": "Cop's Club",
+        "weapon_id": "1426518674",
+        "gallery_number": "415"
+    },
+    {
+        "weaponname": "Ultimatum",
+        "weapon_id": "177168788",
+        "gallery_number": "416"
+    },
+    {
+        "weaponname": "Lamp Revolver",
+        "weapon_id": "2143129586",
+        "gallery_number": "417"
+    },
+    {
+        "weaponname": "Laser Carbine",
+        "weapon_id": "1008099557",
+        "gallery_number": "418"
+    },
+    {
+        "weaponname": "Mercenary Flamethrower",
+        "weapon_id": "1266909283",
+        "gallery_number": "419"
+    },
+    {
+        "weaponname": "Hand Gatling",
+        "weapon_id": "1048439216",
+        "gallery_number": "420"
+    },
+    {
+        "weaponname": "Steam Gun",
+        "weapon_id": "944448309",
+        "gallery_number": "421"
+    },
+    {
+        "weaponname": "Gold Fever",
+        "weapon_id": "502310037",
+        "gallery_number": "422"
+    },
+    {
+        "weaponname": "Bow of Spirits",
+        "weapon_id": "17001046",
+        "gallery_number": "423"
+    },
+    {
+        "weaponname": "Tomahawk Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "424"
+    },
+    {
+        "weaponname": "Sherif Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "425"
+    },
+    {
+        "weaponname": "Miner Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "426"
+    },
+    {
+        "weaponname": "Corn Launcher",
+        "weapon_id": "1651403205",
+        "gallery_number": "427"
+    },
+    {
+        "weaponname": "Thanksgiving Pie",
+        "weapon_id": "1827208520",
+        "gallery_number": "428"
+    },
+    {
+        "weaponname": "Triple Musket",
+        "weapon_id": "1387584670",
+        "gallery_number": "429"
+    },
+    {
+        "weaponname": "Explosive Rifle",
+        "weapon_id": "1046127801",
+        "gallery_number": "430"
+    },
+    {
+        "weaponname": "Eckodile Rifle",
+        "weapon_id": "2039748929",
+        "gallery_number": "431"
+    },
+    {
+        "weaponname": "Like Launcher",
+        "weapon_id": "1053190134",
+        "gallery_number": "432"
+    },
+    {
+        "weaponname": "Snap Attacker",
+        "weapon_id": "1091501147",
+        "gallery_number": "433"
+    },
+    {
+        "weaponname": "Liquid Fire",
+        "weapon_id": "1275464847",
+        "gallery_number": "434"
+    },
+    {
+        "weaponname": "Electric Vortex",
+        "weapon_id": "309452774",
+        "gallery_number": "435"
+    },
+    {
+        "weaponname": "Cursed Staff",
+        "weapon_id": "1286798203",
+        "gallery_number": "436"
+    },
+    {
+        "weaponname": "Blinder",
+        "weapon_id": "1521637410",
+        "gallery_number": "437"
+    },
+    {
+        "weaponname": "Peppermint Guardians",
+        "weapon_id": "1317570215",
+        "gallery_number": "438"
+    },
+    {
+        "weaponname": "Freon",
+        "weapon_id": "117169819",
+        "gallery_number": "439"
+    },
+    {
+        "weaponname": "Shovel Ice",
+        "weapon_id": "N/A",
+        "gallery_number": "440"
+    },
+    {
+        "weaponname": "Cooler",
+        "weapon_id": "1329207635",
+        "gallery_number": "441"
+    },
+    {
+        "weaponname": "Frosty Railgun",
+        "weapon_id": "215680426",
+        "gallery_number": "442"
+    },
+    {
+        "weaponname": "Winter Staff",
+        "weapon_id": "1933682250",
+        "gallery_number": "443"
+    },
+    {
+        "weaponname": "Splinter",
+        "weapon_id": "1969846342",
+        "gallery_number": "444"
+    },
+    {
+        "weaponname": "Peppermint Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "445"
+    },
+    {
+        "weaponname": "Total Annihilator",
+        "weapon_id": "541003112",
+        "gallery_number": "446"
+    },
+    {
+        "weaponname": "Torpedo Launcher",
+        "weapon_id": "1465721754",
+        "gallery_number": "447"
+    },
+    {
+        "weaponname": "Sawed-Off Shotguns",
+        "weapon_id": "1596402314",
+        "gallery_number": "448"
+    },
+    {
+        "weaponname": "Gauss Cannon",
+        "weapon_id": "1566985640",
+        "gallery_number": "449"
+    },
+    {
+        "weaponname": "Ultra Beam",
+        "weapon_id": "2112912322",
+        "gallery_number": "450"
+    },
+    {
+        "weaponname": "Sock Bomber",
+        "weapon_id": "843867148",
+        "gallery_number": "451"
+    },
+    {
+        "weaponname": "Energy Assault Rifle",
+        "weapon_id": "1267683939",
+        "gallery_number": "452"
+    },
+    {
+        "weaponname": "Alien Ice Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "453"
+    },
+    {
+        "weaponname": "Ice Skate Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "454"
+    },
+    {
+        "weaponname": "Plasma Minigun",
+        "weapon_id": "1274841834",
+        "gallery_number": "455"
+    },
+    {
+        "weaponname": "Frost Shot",
+        "weapon_id": "188685439",
+        "gallery_number": "456"
+    },
+    {
+        "weaponname": "Gauntlet of Power",
+        "weapon_id": "337116050",
+        "gallery_number": "457"
+    },
+    {
+        "weaponname": "Space Devastator",
+        "weapon_id": "587118258",
+        "gallery_number": "458"
+    },
+    {
+        "weaponname": "Snow Blaster",
+        "weapon_id": "213348089",
+        "gallery_number": "459"
+    },
+    {
+        "weaponname": "Alien Bouncer",
+        "weapon_id": "1046992296",
+        "gallery_number": "460"
+    },
+    {
+        "weaponname": "Alien Shuriken Thrower",
+        "weapon_id": "1586196613",
+        "gallery_number": "461"
+    },
+    {
+        "weaponname": "Spruce Pistol",
+        "weapon_id": "2046665099",
+        "gallery_number": "462"
+    },
+    {
+        "weaponname": "Christmas Spirit",
+        "weapon_id": "1987510018",
+        "gallery_number": "463"
+    },
+    {
+        "weaponname": "Ice Lightning",
+        "weapon_id": "536954512",
+        "gallery_number": "464"
+    },
+    {
+        "weaponname": "Ice Generator",
+        "weapon_id": "492019975",
+        "gallery_number": "465"
+    },
+    {
+        "weaponname": "Ice Cream Pistol",
+        "weapon_id": "1200099065",
+        "gallery_number": "466"
+    },
+    {
+        "weaponname": "Whip with Cake",
+        "weapon_id": "1619531718",
+        "gallery_number": "467"
+    },
+    {
+        "weaponname": "Festive Guitar",
+        "weapon_id": "764344057",
+        "gallery_number": "468"
+    },
+    {
+        "weaponname": "Evil Snowman",
+        "weapon_id": "1908844430",
+        "gallery_number": "469"
+    },
+    {
+        "weaponname": "Gingerbread Homezooka",
+        "weapon_id": "1173079674",
+        "gallery_number": "470"
+    },
+    {
+        "weaponname": "Portable Gift Factory",
+        "weapon_id": "915801275",
+        "gallery_number": "471"
+    },
+    {
+        "weaponname": "Saturn",
+        "weapon_id": "1508204331",
+        "gallery_number": "472"
+    },
+    {
+        "weaponname": "Venus & Mercury",
+        "weapon_id": "1528363128",
+        "gallery_number": "473"
+    },
+    {
+        "weaponname": "Asteroid",
+        "weapon_id": "1580297219",
+        "gallery_number": "474"
+    },
+    {
+        "weaponname": "Comet",
+        "weapon_id": "777336987",
+        "gallery_number": "475"
+    },
+    {
+        "weaponname": "Meteor Shower",
+        "weapon_id": "916962599",
+        "gallery_number": "476"
+    },
+    {
+        "weaponname": "Necklace of the Ice King",
+        "weapon_id": "911373450",
+        "gallery_number": "477"
+    },
+    {
+        "weaponname": "Ice Paws",
+        "weapon_id": "2021606821",
+        "gallery_number": "478"
+    },
+    {
+        "weaponname": "Frozen Lich Bow",
+        "weapon_id": "1928759918",
+        "gallery_number": "479"
+    },
+    {
+        "weaponname": "Gift Stitcher",
+        "weapon_id": "1546469397",
+        "gallery_number": "480"
+    },
+    {
+        "weaponname": "Ice King's Fury",
+        "weapon_id": "1552054791",
+        "gallery_number": "481"
+    },
+    {
+        "weaponname": "Gifted Revolvers",
+        "weapon_id": "832145690",
+        "gallery_number": "482"
+    },
+    {
+        "weaponname": "Yetti Spirit",
+        "weapon_id": "1614911683",
+        "gallery_number": "483"
+    },
+    {
+        "weaponname": "Oh Deer",
+        "weapon_id": "1756258147",
+        "gallery_number": "484"
+    },
+    {
+        "weaponname": "New Year Defender",
+        "weapon_id": "1974823506",
+        "gallery_number": "485"
+    },
+    {
+        "weaponname": "Candy Axe",
+        "weapon_id": "2144337432",
+        "gallery_number": "486"
+    },
+    {
+        "weaponname": "Cold Silence",
+        "weapon_id": "1645207516",
+        "gallery_number": "487"
+    },
+    {
+        "weaponname": "Proton Freezer",
+        "weapon_id": "1256461366",
+        "gallery_number": "488"
+    },
+    {
+        "weaponname": "Cryolator",
+        "weapon_id": "1938908991",
+        "gallery_number": "489"
+    },
+    {
+        "weaponname": "Cyber Machine Gun",
+        "weapon_id": "123232201",
+        "gallery_number": "490"
+    },
+    {
+        "weaponname": "Cyber Pistol",
+        "weapon_id": "1049442168",
+        "gallery_number": "491"
+    },
+    {
+        "weaponname": "Shock",
+        "weapon_id": "15530744",
+        "gallery_number": "492"
+    },
+    {
+        "weaponname": "Cyber Rifle",
+        "weapon_id": "510607579",
+        "gallery_number": "493"
+    },
+    {
+        "weaponname": "Cyber Rocket Launcher",
+        "weapon_id": "9817830",
+        "gallery_number": "494"
+    },
+    {
+        "weaponname": "Mini Acid Spray",
+        "weapon_id": "944918770",
+        "gallery_number": "495"
+    },
+    {
+        "weaponname": "Propitiator",
+        "weapon_id": "2112617871",
+        "gallery_number": "496"
+    },
+    {
+        "weaponname": "Pixel-Cola Refresher",
+        "weapon_id": "1020224239",
+        "gallery_number": "497"
+    },
+    {
+        "weaponname": "Overseer",
+        "weapon_id": "553561803",
+        "gallery_number": "498"
+    },
+    {
+        "weaponname": "Instigator",
+        "weapon_id": "206227950",
+        "gallery_number": "499"
+    },
+    {
+        "weaponname": "Storm",
+        "weapon_id": "711241763",
+        "gallery_number": "500"
+    },
+    {
+        "weaponname": "Semi-Auto Shotgun",
+        "weapon_id": "770114717",
+        "gallery_number": "501"
+    },
+    {
+        "weaponname": "Stinger 3000",
+        "weapon_id": "889495138",
+        "gallery_number": "502"
+    },
+    {
+        "weaponname": "Airstrike Laptop",
+        "weapon_id": "1895099977",
+        "gallery_number": "503"
+    },
+    {
+        "weaponname": "Deadly Digital System",
+        "weapon_id": "465216636",
+        "gallery_number": "504"
+    },
+    {
+        "weaponname": "Night Hunter",
+        "weapon_id": "987673187",
+        "gallery_number": "505"
+    },
+    {
+        "weaponname": "Spec Ops Pistol",
+        "weapon_id": "552484848",
+        "gallery_number": "506"
+    },
+    {
+        "weaponname": "Tactical Knife",
+        "weapon_id": "398811077",
+        "gallery_number": "507"
+    },
+    {
+        "weaponname": "Hand Minigun",
+        "weapon_id": "2126395579",
+        "gallery_number": "508"
+    },
+    {
+        "weaponname": "Heavy Sniper Rifle",
+        "weapon_id": "1607990068",
+        "gallery_number": "509"
+    },
+    {
+        "weaponname": "Armadillo",
+        "weapon_id": "1808038733",
+        "gallery_number": "510"
+    },
+    {
+        "weaponname": "Police Zapper",
+        "weapon_id": "1951822227",
+        "gallery_number": "511"
+    },
+    {
+        "weaponname": "Temple Guardian",
+        "weapon_id": "455018109",
+        "gallery_number": "512"
+    },
+    {
+        "weaponname": "Healing Carp",
+        "weapon_id": "618677551",
+        "gallery_number": "513"
+    },
+    {
+        "weaponname": "Moon Halberd",
+        "weapon_id": "592560526",
+        "gallery_number": "514"
+    },
+    {
+        "weaponname": "Magic Musket",
+        "weapon_id": "466772808",
+        "gallery_number": "515"
+    },
+    {
+        "weaponname": "Rune Stone",
+        "weapon_id": "715893600",
+        "gallery_number": "516"
+    },
+    {
+        "weaponname": "Bone Knife",
+        "weapon_id": "1562803458",
+        "gallery_number": "517"
+    },
+    {
+        "weaponname": "Flaming Skull",
+        "weapon_id": "1527679039",
+        "gallery_number": "518"
+    },
+    {
+        "weaponname": "Forest Sniper Bow",
+        "weapon_id": "1582476073",
+        "gallery_number": "519"
+    },
+    {
+        "weaponname": "royale_alpenstock",
+        "weapon_id": "N/A",
+        "gallery_number": "520"
+    },
+    {
+        "weaponname": "Agent Valentine",
+        "weapon_id": "1326044590",
+        "gallery_number": "521"
+    },
+    {
+        "weaponname": "Lovebirds",
+        "weapon_id": "1413574182",
+        "gallery_number": "522"
+    },
+    {
+        "weaponname": "Serenade",
+        "weapon_id": "1393297203",
+        "gallery_number": "523"
+    },
+    {
+        "weaponname": "Heartbreakers",
+        "weapon_id": "716020953",
+        "gallery_number": "524"
+    },
+    {
+        "weaponname": "Succubus",
+        "weapon_id": "1992917663",
+        "gallery_number": "525"
+    },
+    {
+        "weaponname": "Ten O'Clock Postman",
+        "weapon_id": "1431223264",
+        "gallery_number": "526"
+    },
+    {
+        "weaponname": "Harpy",
+        "weapon_id": "59115786",
+        "gallery_number": "527"
+    },
+    {
+        "weaponname": "Runic Hammer",
+        "weapon_id": "914666066",
+        "gallery_number": "528"
+    },
+    {
+        "weaponname": "Mithril Rifle",
+        "weapon_id": "27591365",
+        "gallery_number": "529"
+    },
+    {
+        "weaponname": "Arahna Bite",
+        "weapon_id": "2134879584",
+        "gallery_number": "530"
+    },
+    {
+        "weaponname": "Medusa",
+        "weapon_id": "1314965731",
+        "gallery_number": "531"
+    },
+    {
+        "weaponname": "Big B's Oven",
+        "weapon_id": "1375275163",
+        "gallery_number": "532"
+    },
+    {
+        "weaponname": "Mr Mixer",
+        "weapon_id": "1882136267",
+        "gallery_number": "533"
+    },
+    {
+        "weaponname": "Cookie Minigun",
+        "weapon_id": "1776753008",
+        "gallery_number": "534"
+    },
+    {
+        "weaponname": "Enchanted Blades",
+        "weapon_id": "1988422935",
+        "gallery_number": "535"
+    },
+    {
+        "weaponname": "Alchemist Staff",
+        "weapon_id": "1271974349",
+        "gallery_number": "536"
+    },
+    {
+        "weaponname": "Rune Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "537"
+    },
+    {
+        "weaponname": "Ayclops Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "538"
+    },
+    {
+        "weaponname": "System Admin",
+        "weapon_id": "961779029",
+        "gallery_number": "539"
+    },
+    {
+        "weaponname": "Flash Drive",
+        "weapon_id": "2019188935",
+        "gallery_number": "540"
+    },
+    {
+        "weaponname": "Disconnector",
+        "weapon_id": "1382473",
+        "gallery_number": "541"
+    },
+    {
+        "weaponname": "Network Streamer",
+        "weapon_id": "1379987906",
+        "gallery_number": "542"
+    },
+    {
+        "weaponname": "Antivirus",
+        "weapon_id": "1060440780",
+        "gallery_number": "543"
+    },
+    {
+        "weaponname": "BIG DATA",
+        "weapon_id": "1330069359",
+        "gallery_number": "544"
+    },
+    {
+        "weaponname": "Cyclops Sling",
+        "weapon_id": "813507040",
+        "gallery_number": "545"
+    },
+    {
+        "weaponname": "Rainbow Dispenser",
+        "weapon_id": "1082939392",
+        "gallery_number": "546"
+    },
+    {
+        "weaponname": "Rainbow Destroyer",
+        "weapon_id": "1829984330",
+        "gallery_number": "547"
+    },
+    {
+        "weaponname": "Mister L",
+        "weapon_id": "299404831",
+        "gallery_number": "548"
+    },
+    {
+        "weaponname": "Adamant Claws",
+        "weapon_id": "1347359359",
+        "gallery_number": "549"
+    },
+    {
+        "weaponname": "Hypersound Uzi",
+        "weapon_id": "187504014",
+        "gallery_number": "550"
+    },
+    {
+        "weaponname": "Double Gum",
+        "weapon_id": "1877982485",
+        "gallery_number": "551"
+    },
+    {
+        "weaponname": "Black Hole",
+        "weapon_id": "2084908420",
+        "gallery_number": "552"
+    },
+    {
+        "weaponname": "Space Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "553"
+    },
+    {
+        "weaponname": "Heroic Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "554"
+    },
+    {
+        "weaponname": "Protector of Peace",
+        "weapon_id": "1238175353",
+        "gallery_number": "555"
+    },
+    {
+        "weaponname": "Portalius Wrath",
+        "weapon_id": "1728977592",
+        "gallery_number": "556"
+    },
+    {
+        "weaponname": "Chipping Whip",
+        "weapon_id": "32620151",
+        "gallery_number": "557"
+    },
+    {
+        "weaponname": "Portalium Rifle",
+        "weapon_id": "222743652",
+        "gallery_number": "558"
+    },
+    {
+        "weaponname": "Nuclear Rifle",
+        "weapon_id": "1264043633",
+        "gallery_number": "559"
+    },
+    {
+        "weaponname": "Deadly Umbrella",
+        "weapon_id": "1290107056",
+        "gallery_number": "560"
+    },
+    {
+        "weaponname": "Big BANG! Revolver",
+        "weapon_id": "855410581",
+        "gallery_number": "561"
+    },
+    {
+        "weaponname": "Acid Shotgun",
+        "weapon_id": "1730436718",
+        "gallery_number": "562"
+    },
+    {
+        "weaponname": "Bat'o'Hawk",
+        "weapon_id": "776842865",
+        "gallery_number": "563"
+    },
+    {
+        "weaponname": "Combat Gauntlet",
+        "weapon_id": "126371469",
+        "gallery_number": "564"
+    },
+    {
+        "weaponname": "Spider Sense",
+        "weapon_id": "1043050490",
+        "gallery_number": "565"
+    },
+    {
+        "weaponname": "Werewolf",
+        "weapon_id": "736766551",
+        "gallery_number": "566"
+    },
+    {
+        "weaponname": "Sharp Flame",
+        "weapon_id": "612943114",
+        "gallery_number": "567"
+    },
+    {
+        "weaponname": "Charged Injector",
+        "weapon_id": "1241194611",
+        "gallery_number": "568"
+    },
+    {
+        "weaponname": "Garbage Rifle",
+        "weapon_id": "1057197516",
+        "gallery_number": "569"
+    },
+    {
+        "weaponname": "Firefighter",
+        "weapon_id": "634875607",
+        "gallery_number": "570"
+    },
+    {
+        "weaponname": "Huge Boy",
+        "weapon_id": "1052899648",
+        "gallery_number": "571"
+    },
+    {
+        "weaponname": "Firemen Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "572"
+    },
+    {
+        "weaponname": "Fatal Melter",
+        "weapon_id": "2102857692",
+        "gallery_number": "573"
+    },
+    {
+        "weaponname": "Dual Anger",
+        "weapon_id": "502245084",
+        "gallery_number": "574"
+    },
+    {
+        "weaponname": "Brutal Thinner",
+        "weapon_id": "348020917",
+        "gallery_number": "575"
+    },
+    {
+        "weaponname": "Liquidator Z1",
+        "weapon_id": "1192683734",
+        "gallery_number": "576"
+    },
+    {
+        "weaponname": "Eliminator Z2",
+        "weapon_id": "755096241",
+        "gallery_number": "577"
+    },
+    {
+        "weaponname": "Pursuer Z3",
+        "weapon_id": "1356400620",
+        "gallery_number": "578"
+    },
+    {
+        "weaponname": "Pixelgun",
+        "weapon_id": "840598846",
+        "gallery_number": "579"
+    },
+    {
+        "weaponname": "Plastic Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "580"
+    },
+    {
+        "weaponname": "Balloon Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "581"
+    },
+    {
+        "weaponname": "Block Rifle",
+        "weapon_id": "2095730722",
+        "gallery_number": "582"
+    },
+    {
+        "weaponname": "Block Shotgun",
+        "weapon_id": "1789899202",
+        "gallery_number": "583"
+    },
+    {
+        "weaponname": "Block Flamethrower",
+        "weapon_id": "1327246294",
+        "gallery_number": "584"
+    },
+    {
+        "weaponname": "Plastic Rifle",
+        "weapon_id": "1979690239",
+        "gallery_number": "585"
+    },
+    {
+        "weaponname": "Plastic Bazooka",
+        "weapon_id": "1899405890",
+        "gallery_number": "586"
+    },
+    {
+        "weaponname": "Plastic Carabin",
+        "weapon_id": "1455998967",
+        "gallery_number": "587"
+    },
+    {
+        "weaponname": "Cloud Launcher",
+        "weapon_id": "741748000",
+        "gallery_number": "588"
+    },
+    {
+        "weaponname": "Pulling Sucker Gun",
+        "weapon_id": "34556346",
+        "gallery_number": "589"
+    },
+    {
+        "weaponname": "Witch Doctor",
+        "weapon_id": "925961603",
+        "gallery_number": "590"
+    },
+    {
+        "weaponname": "Portal Cannon",
+        "weapon_id": "377434248",
+        "gallery_number": "591"
+    },
+    {
+        "weaponname": "Healing Staff",
+        "weapon_id": "84574881",
+        "gallery_number": "592"
+    },
+    {
+        "weaponname": "Laser Ray Rifle",
+        "weapon_id": "927835659",
+        "gallery_number": "593"
+    },
+    {
+        "weaponname": "Clockwork Cannon",
+        "weapon_id": "1711766905",
+        "gallery_number": "594"
+    },
+    {
+        "weaponname": "Transformed Blaster",
+        "weapon_id": "1556772545",
+        "gallery_number": "595"
+    },
+    {
+        "weaponname": "Transformed Machine Gun",
+        "weapon_id": "1841372367",
+        "gallery_number": "596"
+    },
+    {
+        "weaponname": "Witch's Sheep Cauldron",
+        "weapon_id": "1640838584",
+        "gallery_number": "597"
+    },
+    {
+        "weaponname": "Combat Darts",
+        "weapon_id": "1564652861",
+        "gallery_number": "598"
+    },
+    {
+        "weaponname": "Throwing Spears",
+        "weapon_id": "472637007",
+        "gallery_number": "599"
+    },
+    {
+        "weaponname": "Aloha! Boom Boom!",
+        "weapon_id": "1359633871",
+        "gallery_number": "600"
+    },
+    {
+        "weaponname": "Professional Bow",
+        "weapon_id": "235048958",
+        "gallery_number": "601"
+    },
+    {
+        "weaponname": "Artefact",
+        "weapon_id": "1564817388",
+        "gallery_number": "602"
+    },
+    {
+        "weaponname": "Ouroboros",
+        "weapon_id": "161002262",
+        "gallery_number": "603"
+    },
+    {
+        "weaponname": "Sharp-eyed Courier",
+        "weapon_id": "531168891",
+        "gallery_number": "604"
+    },
+    {
+        "weaponname": "Emitter of Uncertainty",
+        "weapon_id": "495223921",
+        "gallery_number": "605"
+    },
+    {
+        "weaponname": "Scouter's Rifle",
+        "weapon_id": "1661556820",
+        "gallery_number": "606"
+    },
+    {
+        "weaponname": "Knife and Compass",
+        "weapon_id": "1660770758",
+        "gallery_number": "607"
+    },
+    {
+        "weaponname": "Mega-Horn",
+        "weapon_id": "1871332235",
+        "gallery_number": "608"
+    },
+    {
+        "weaponname": "Raccoon With a Pipe",
+        "weapon_id": "150566386",
+        "gallery_number": "609"
+    },
+    {
+        "weaponname": "Butterfy Net Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "610"
+    },
+    {
+        "weaponname": "Guitar Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "611"
+    },
+    {
+        "weaponname": "Werewolf Paws",
+        "weapon_id": "260428781",
+        "gallery_number": "612"
+    },
+    {
+        "weaponname": "Ice Cream Thrower",
+        "weapon_id": "733473876",
+        "gallery_number": "613"
+    },
+    {
+        "weaponname": "Orange Killer",
+        "weapon_id": "1073833534",
+        "gallery_number": "614"
+    },
+    {
+        "weaponname": "Soda + Pop",
+        "weapon_id": "391682745",
+        "gallery_number": "615"
+    },
+    {
+        "weaponname": "Pyro 1116",
+        "weapon_id": "1760768990",
+        "gallery_number": "616"
+    },
+    {
+        "weaponname": "Sparkling Hydra",
+        "weapon_id": "160787252",
+        "gallery_number": "617"
+    },
+    {
+        "weaponname": "Tiny Resizer",
+        "weapon_id": "1649242517",
+        "gallery_number": "618"
+    },
+    {
+        "weaponname": "Pawn's Gun",
+        "weapon_id": "385055364",
+        "gallery_number": "619"
+    },
+    {
+        "weaponname": "Knight's Axe",
+        "weapon_id": "953310900",
+        "gallery_number": "620"
+    },
+    {
+        "weaponname": "Battle Rook",
+        "weapon_id": "1386088620",
+        "gallery_number": "621"
+    },
+    {
+        "weaponname": "Inevitability",
+        "weapon_id": "281118135",
+        "gallery_number": "622"
+    },
+    {
+        "weaponname": "Chess Board Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "623"
+    },
+    {
+        "weaponname": "Royal Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "624"
+    },
+    {
+        "weaponname": "Checkmate",
+        "weapon_id": "1363369471",
+        "gallery_number": "625"
+    },
+    {
+        "weaponname": "Proud Eagle",
+        "weapon_id": "1672693161",
+        "gallery_number": "626"
+    },
+    {
+        "weaponname": "Sly Wolf",
+        "weapon_id": "997435471",
+        "gallery_number": "627"
+    },
+    {
+        "weaponname": "Brave Lion",
+        "weapon_id": "1859519421",
+        "gallery_number": "628"
+    },
+    {
+        "weaponname": "Offensive Catapult",
+        "weapon_id": "781330870",
+        "gallery_number": "629"
+    },
+    {
+        "weaponname": "Battle Horn",
+        "weapon_id": "1070522540",
+        "gallery_number": "630"
+    },
+    {
+        "weaponname": "Amazon's Sharp Ring",
+        "weapon_id": "359436545",
+        "gallery_number": "631"
+    },
+    {
+        "weaponname": "Exquisite Bagpipes",
+        "weapon_id": "1265481279",
+        "gallery_number": "632"
+    },
+    {
+        "weaponname": "Pew Pew Rifle",
+        "weapon_id": "1229573684",
+        "gallery_number": "633"
+    },
+    {
+        "weaponname": "Pixel Stream Sword",
+        "weapon_id": "1485663477",
+        "gallery_number": "634"
+    },
+    {
+        "weaponname": "Tube Backpack",
+        "weapon_id": "1685309455",
+        "gallery_number": "635"
+    },
+    {
+        "weaponname": "Supershot Rifle",
+        "weapon_id": "441984440",
+        "gallery_number": "636"
+    },
+    {
+        "weaponname": "Hyper Mega Cannon",
+        "weapon_id": "1258525371",
+        "gallery_number": "637"
+    },
+    {
+        "weaponname": "Digital Sunrise",
+        "weapon_id": "71406234",
+        "gallery_number": "638"
+    },
+    {
+        "weaponname": "Laser Cycler",
+        "weapon_id": "2144547",
+        "gallery_number": "639"
+    },
+    {
+        "weaponname": "Wave Pulser",
+        "weapon_id": "744831271",
+        "gallery_number": "640"
+    },
+    {
+        "weaponname": "Arcade Rifle",
+        "weapon_id": "2022039075",
+        "gallery_number": "641"
+    },
+    {
+        "weaponname": "Arcade Flamethrower",
+        "weapon_id": "1168882653",
+        "gallery_number": "642"
+    },
+    {
+        "weaponname": "Fatality Hook",
+        "weapon_id": "138400878",
+        "gallery_number": "643"
+    },
+    {
+        "weaponname": "Fireball Gauntlet",
+        "weapon_id": "1861734427",
+        "gallery_number": "644"
+    },
+    {
+        "weaponname": "Anubis",
+        "weapon_id": "1337136250",
+        "gallery_number": "645"
+    },
+    {
+        "weaponname": "Duck Hunter",
+        "weapon_id": "2020729062",
+        "gallery_number": "646"
+    },
+    {
+        "weaponname": "Disc Battle Station",
+        "weapon_id": "174622497",
+        "gallery_number": "647"
+    },
+    {
+        "weaponname": "Pixel Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "648"
+    },
+    {
+        "weaponname": "Holy Shotgun",
+        "weapon_id": "613953109",
+        "gallery_number": "649"
+    },
+    {
+        "weaponname": "Aspen Spear",
+        "weapon_id": "1987523983",
+        "gallery_number": "650"
+    },
+    {
+        "weaponname": "Dual Hunter Crossbows",
+        "weapon_id": "797582963",
+        "gallery_number": "651"
+    },
+    {
+        "weaponname": "Plague Purifier",
+        "weapon_id": "1525495147",
+        "gallery_number": "652"
+    },
+    {
+        "weaponname": "Oppressor of Lives",
+        "weapon_id": "1799735903",
+        "gallery_number": "653"
+    },
+    {
+        "weaponname": "Sword of Silence",
+        "weapon_id": "83533923",
+        "gallery_number": "654"
+    },
+    {
+        "weaponname": "Gravestone Shovel",
+        "weapon_id": "2045868534",
+        "gallery_number": "655"
+    },
+    {
+        "weaponname": "Hot Greetings",
+        "weapon_id": "1301548174",
+        "gallery_number": "656"
+    },
+    {
+        "weaponname": "Cooking Totem",
+        "weapon_id": "341072236",
+        "gallery_number": "657"
+    },
+    {
+        "weaponname": "Spiritual Rifle",
+        "weapon_id": "1302636582",
+        "gallery_number": "658"
+    },
+    {
+        "weaponname": "Storm of All Seas",
+        "weapon_id": "1698527272",
+        "gallery_number": "659"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1437513793",
+        "gallery_number": "660"
+    },
+    {
+        "weaponname": "Hard Corn",
+        "weapon_id": "945778742",
+        "gallery_number": "661"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "621138171",
+        "gallery_number": "662"
+    },
+    {
+        "weaponname": "Lancelot",
+        "weapon_id": "1050623880",
+        "gallery_number": "663"
+    },
+    {
+        "weaponname": "Galahad",
+        "weapon_id": "1839516694",
+        "gallery_number": "664"
+    },
+    {
+        "weaponname": "Percival & Lamorak",
+        "weapon_id": "1718475051",
+        "gallery_number": "665"
+    },
+    {
+        "weaponname": "Mordred",
+        "weapon_id": "1497857667",
+        "gallery_number": "666"
+    },
+    {
+        "weaponname": "Morgana",
+        "weapon_id": "429167017",
+        "gallery_number": "667"
+    },
+    {
+        "weaponname": "Bedivere",
+        "weapon_id": "1337213795",
+        "gallery_number": "668"
+    },
+    {
+        "weaponname": "Neutron Pulsator",
+        "weapon_id": "1672072388",
+        "gallery_number": "669"
+    },
+    {
+        "weaponname": "Cracker Gun",
+        "weapon_id": "361662458",
+        "gallery_number": "670"
+    },
+    {
+        "weaponname": "Royal Marriage Officiant",
+        "weapon_id": "1212844000",
+        "gallery_number": "671"
+    },
+    {
+        "weaponname": "Snow Queen Wand",
+        "weapon_id": "1619983336",
+        "gallery_number": "672"
+    },
+    {
+        "weaponname": "Heroic Epee",
+        "weapon_id": "693501208",
+        "gallery_number": "673"
+    },
+    {
+        "weaponname": "Ice Club",
+        "weapon_id": "20849778",
+        "gallery_number": "674"
+    },
+    {
+        "weaponname": "Last Squeak",
+        "weapon_id": "360457261",
+        "gallery_number": "675"
+    },
+    {
+        "weaponname": "Fierce Pack",
+        "weapon_id": "533151448",
+        "gallery_number": "676"
+    },
+    {
+        "weaponname": "Mouse Scepter",
+        "weapon_id": "373399032",
+        "gallery_number": "677"
+    },
+    {
+        "weaponname": "Ice Chaser",
+        "weapon_id": "1600207422",
+        "gallery_number": "678"
+    },
+    {
+        "weaponname": "Sneaky Pistol",
+        "weapon_id": "1139330623",
+        "gallery_number": "679"
+    },
+    {
+        "weaponname": "Coal Frightener",
+        "weapon_id": "1785815018",
+        "gallery_number": "680"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "550595269",
+        "gallery_number": "681"
+    },
+    {
+        "weaponname": "Golden Bros",
+        "weapon_id": "1526449622",
+        "gallery_number": "682"
+    },
+    {
+        "weaponname": "Gangsta Shield",
+        "weapon_id": "1945738349",
+        "gallery_number": "683"
+    },
+    {
+        "weaponname": "Double Cashback",
+        "weapon_id": "507783760",
+        "gallery_number": "684"
+    },
+    {
+        "weaponname": "Luxury Beats",
+        "weapon_id": "1880417961",
+        "gallery_number": "685"
+    },
+    {
+        "weaponname": "Sniper Dude",
+        "weapon_id": "1345616674",
+        "gallery_number": "686"
+    },
+    {
+        "weaponname": "Gem Power",
+        "weapon_id": "1973235416",
+        "gallery_number": "687"
+    },
+    {
+        "weaponname": "Spirit Staff",
+        "weapon_id": "353875038",
+        "gallery_number": "688"
+    },
+    {
+        "weaponname": "Offensive Fireworks",
+        "weapon_id": "142660144",
+        "gallery_number": "689"
+    },
+    {
+        "weaponname": "Sharp Fans",
+        "weapon_id": "843273993",
+        "gallery_number": "690"
+    },
+    {
+        "weaponname": "River Dragon",
+        "weapon_id": "525577882",
+        "gallery_number": "691"
+    },
+    {
+        "weaponname": "Explosive Lemonade",
+        "weapon_id": "1828558225",
+        "gallery_number": "692"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1771291884",
+        "gallery_number": "693"
+    },
+    {
+        "weaponname": "Fire Spirit",
+        "weapon_id": "174739482",
+        "gallery_number": "694"
+    },
+    {
+        "weaponname": "Thunder Storm",
+        "weapon_id": "580502718",
+        "gallery_number": "695"
+    },
+    {
+        "weaponname": "Water Blades",
+        "weapon_id": "641293355",
+        "gallery_number": "696"
+    },
+    {
+        "weaponname": "Deadly Stings",
+        "weapon_id": "244395418",
+        "gallery_number": "697"
+    },
+    {
+        "weaponname": "Dragon Bite",
+        "weapon_id": "532478468",
+        "gallery_number": "698"
+    },
+    {
+        "weaponname": "Ancient Scroll",
+        "weapon_id": "326144058",
+        "gallery_number": "699"
+    },
+    {
+        "weaponname": "Potato Implant",
+        "weapon_id": "1493547085",
+        "gallery_number": "700"
+    },
+    {
+        "weaponname": "AI Pistol",
+        "weapon_id": "631059274",
+        "gallery_number": "701"
+    },
+    {
+        "weaponname": "Super Drill",
+        "weapon_id": "2144754745",
+        "gallery_number": "702"
+    },
+    {
+        "weaponname": "Meteorite Destroyer",
+        "weapon_id": "1521154832",
+        "gallery_number": "703"
+    },
+    {
+        "weaponname": "Gravitator",
+        "weapon_id": "330369027",
+        "gallery_number": "704"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "2051576257",
+        "gallery_number": "705"
+    },
+    {
+        "weaponname": "Zap Blaster",
+        "weapon_id": "833866447",
+        "gallery_number": "706"
+    },
+    {
+        "weaponname": "Pew Blaster",
+        "weapon_id": "361942176",
+        "gallery_number": "707"
+    },
+    {
+        "weaponname": "Boom Blaster",
+        "weapon_id": "1694391511",
+        "gallery_number": "708"
+    },
+    {
+        "weaponname": "Psionic Sporethrower",
+        "weapon_id": "1791325086",
+        "gallery_number": "709"
+    },
+    {
+        "weaponname": "Poisonous Grasshopper",
+        "weapon_id": "12026492",
+        "gallery_number": "710"
+    },
+    {
+        "weaponname": "Shrimposaur",
+        "weapon_id": "1808001487",
+        "gallery_number": "711"
+    },
+    {
+        "weaponname": "Desert Fighter",
+        "weapon_id": "237965769",
+        "gallery_number": "712"
+    },
+    {
+        "weaponname": "Egg Colorant",
+        "weapon_id": "148308519",
+        "gallery_number": "713"
+    },
+    {
+        "weaponname": "Hocus Pocus",
+        "weapon_id": "1180924159",
+        "gallery_number": "714"
+    },
+    {
+        "weaponname": "Bunny Smasher",
+        "weapon_id": "1548200762",
+        "gallery_number": "715"
+    },
+    {
+        "weaponname": "A-Killer",
+        "weapon_id": "977602439",
+        "gallery_number": "716"
+    },
+    {
+        "weaponname": "Carrot Crossbow",
+        "weapon_id": "1436342154",
+        "gallery_number": "717"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "550267228",
+        "gallery_number": "718"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1632669002",
+        "gallery_number": "719"
+    },
+    {
+        "weaponname": "Watchy-Snipy",
+        "weapon_id": "111556064",
+        "gallery_number": "720"
+    },
+    {
+        "weaponname": "Spinny-Shooty",
+        "weapon_id": "1200164112",
+        "gallery_number": "721"
+    },
+    {
+        "weaponname": "Pully-Blasty",
+        "weapon_id": "1345479952",
+        "gallery_number": "722"
+    },
+    {
+        "weaponname": "Chickaboom!",
+        "weapon_id": "162025112",
+        "gallery_number": "723"
+    },
+    {
+        "weaponname": "Battle Grainthrowers",
+        "weapon_id": "1650323092",
+        "gallery_number": "724"
+    },
+    {
+        "weaponname": "Last Cry",
+        "weapon_id": "566453769",
+        "gallery_number": "725"
+    },
+    {
+        "weaponname": "Iron Sword",
+        "weapon_id": "1426186750",
+        "gallery_number": "726"
+    },
+    {
+        "weaponname": "Dragon Energy Emitter",
+        "weapon_id": "2094586064",
+        "gallery_number": "727"
+    },
+    {
+        "weaponname": "Fist of Fate",
+        "weapon_id": "1160200985",
+        "gallery_number": "728"
+    },
+    {
+        "weaponname": "Demon Catcher",
+        "weapon_id": "1861568290",
+        "gallery_number": "729"
+    },
+    {
+        "weaponname": "Aboard Puncher",
+        "weapon_id": "1756261779",
+        "gallery_number": "730"
+    },
+    {
+        "weaponname": "Deadly Tail",
+        "weapon_id": "765762320",
+        "gallery_number": "731"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1916083476",
+        "gallery_number": "732"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "419853115",
+        "gallery_number": "733"
+    },
+    {
+        "weaponname": "Sword Soul Card",
+        "weapon_id": "1094021890",
+        "gallery_number": "734"
+    },
+    {
+        "weaponname": "Lance Soul Card",
+        "weapon_id": "1267762384",
+        "gallery_number": "735"
+    },
+    {
+        "weaponname": "Bow Soul Card",
+        "weapon_id": "1834527503",
+        "gallery_number": "736"
+    },
+    {
+        "weaponname": "Vertical Grip Device",
+        "weapon_id": "1582570772",
+        "gallery_number": "737"
+    },
+    {
+        "weaponname": "Siege Mode Gauntlet",
+        "weapon_id": "1466491609",
+        "gallery_number": "738"
+    },
+    {
+        "weaponname": "One-Punch Gauntlet",
+        "weapon_id": "1122129815",
+        "gallery_number": "739"
+    },
+    {
+        "weaponname": "Treasurer",
+        "weapon_id": "2032561829",
+        "gallery_number": "740"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "242743708",
+        "gallery_number": "741"
+    },
+    {
+        "weaponname": "Shell Bubbler",
+        "weapon_id": "1160191517",
+        "gallery_number": "742"
+    },
+    {
+        "weaponname": "Tide Bracers",
+        "weapon_id": "1007452085",
+        "gallery_number": "743"
+    },
+    {
+        "weaponname": "Call of Sirens",
+        "weapon_id": "1844632159",
+        "gallery_number": "744"
+    },
+    {
+        "weaponname": "Deep Ambusher",
+        "weapon_id": "305427282",
+        "gallery_number": "745"
+    },
+    {
+        "weaponname": "Cthulhu Legacy",
+        "weapon_id": "381676005",
+        "gallery_number": "746"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "772438778",
+        "gallery_number": "747"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "544174408",
+        "gallery_number": "748"
+    },
+    {
+        "weaponname": "Mooring Anchor",
+        "weapon_id": "1296855893",
+        "gallery_number": "749"
+    },
+    {
+        "weaponname": "Heavy Drill Rifle",
+        "weapon_id": "1797693350",
+        "gallery_number": "750"
+    },
+    {
+        "weaponname": "Rivet Gun",
+        "weapon_id": "1929917771",
+        "gallery_number": "751"
+    },
+    {
+        "weaponname": "Submarine Drone Station",
+        "weapon_id": "1233990748",
+        "gallery_number": "752"
+    },
+    {
+        "weaponname": "Echo Scanner",
+        "weapon_id": "1283189570",
+        "gallery_number": "753"
+    },
+    {
+        "weaponname": "Underwater Carbine",
+        "weapon_id": "567998426",
+        "gallery_number": "754"
+    },
+    {
+        "weaponname": "Project 'Dolphin'",
+        "weapon_id": "1700147128",
+        "gallery_number": "755"
+    },
+    {
+        "weaponname": "Project 'Rapid Flock'",
+        "weapon_id": "80152300",
+        "gallery_number": "756"
+    },
+    {
+        "weaponname": "Project 'Marlin'",
+        "weapon_id": "849572103",
+        "gallery_number": "757"
+    },
+    {
+        "weaponname": "Advanced Scout Rifle(Mythical)",
+        "weapon_id": "1320784480",
+        "gallery_number": "758"
+    },
+    {
+        "weaponname": "Harsh Punisher(Mythical)",
+        "weapon_id": "1064416293",
+        "gallery_number": "759"
+    },
+    {
+        "weaponname": "Manual Inferno(Mythical)",
+        "weapon_id": "228886952",
+        "gallery_number": "760"
+    },
+    {
+        "weaponname": "Offensive Rocket(Mythical) System",
+        "weapon_id": "1162738674",
+        "gallery_number": "761"
+    },
+    {
+        "weaponname": "Headhunter Pistols(Mythical)",
+        "weapon_id": "129493033",
+        "gallery_number": "762"
+    },
+    {
+        "weaponname": "Thunderbolt",
+        "weapon_id": "1175658001",
+        "gallery_number": "763"
+    },
+    {
+        "weaponname": "Spear of War",
+        "weapon_id": "1146851576",
+        "gallery_number": "764"
+    },
+    {
+        "weaponname": "Aphrodite Crossbow",
+        "weapon_id": "1244647403",
+        "gallery_number": "765"
+    },
+    {
+        "weaponname": "Winged Revolver",
+        "weapon_id": "1714256498",
+        "gallery_number": "766"
+    },
+    {
+        "weaponname": "Ferocious Poleaxe",
+        "weapon_id": "365859340",
+        "gallery_number": "767"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "720492380",
+        "gallery_number": "768"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "2021324448",
+        "gallery_number": "769"
+    },
+    {
+        "weaponname": "Cerberus",
+        "weapon_id": "643647699",
+        "gallery_number": "770"
+    },
+    {
+        "weaponname": "Conductor of Souls",
+        "weapon_id": "1131706052",
+        "gallery_number": "771"
+    },
+    {
+        "weaponname": "Triple Bite",
+        "weapon_id": "1445473579",
+        "gallery_number": "772"
+    },
+    {
+        "weaponname": "Wrath of Fire",
+        "weapon_id": "1690327516",
+        "gallery_number": "773"
+    },
+    {
+        "weaponname": "Earth Tremor",
+        "weapon_id": "1457381746",
+        "gallery_number": "774"
+    },
+    {
+        "weaponname": "Primal Cold",
+        "weapon_id": "77906630",
+        "gallery_number": "775"
+    },
+    {
+        "weaponname": "Boar's Roar",
+        "weapon_id": "2073573915",
+        "gallery_number": "776"
+    },
+    {
+        "weaponname": "Gorgon Head",
+        "weapon_id": "632864467",
+        "gallery_number": "777"
+    },
+    {
+        "weaponname": "Invincible Lion",
+        "weapon_id": "373014978",
+        "gallery_number": "778"
+    },
+    {
+        "weaponname": "Advanced Scout Rifle(Legendary)",
+        "weapon_id": "1190763471",
+        "gallery_number": "779"
+    },
+    {
+        "weaponname": "Harsh Punisher(Legendary)",
+        "weapon_id": "1280141770",
+        "gallery_number": "780"
+    },
+    {
+        "weaponname": "Manual Inferno(Legendary)",
+        "weapon_id": "1624960945",
+        "gallery_number": "781"
+    },
+    {
+        "weaponname": "Offensive Rocket System(Legendary)",
+        "weapon_id": "45049847",
+        "gallery_number": "782"
+    },
+    {
+        "weaponname": "Headhunter Pistols(Legendary)",
+        "weapon_id": "136214962",
+        "gallery_number": "783"
+    },
+    {
+        "weaponname": "Debugger",
+        "weapon_id": "2016600161",
+        "gallery_number": "784"
+    },
+    {
+        "weaponname": "Like Booster",
+        "weapon_id": "1061614437",
+        "gallery_number": "785"
+    },
+    {
+        "weaponname": "Ban Hammer",
+        "weapon_id": "364418818",
+        "gallery_number": "786"
+    },
+    {
+        "weaponname": "VR Blasters",
+        "weapon_id": "732798751",
+        "gallery_number": "787"
+    },
+    {
+        "weaponname": "Killer Chord",
+        "weapon_id": "147776484",
+        "gallery_number": "788"
+    },
+    {
+        "weaponname": "Invigorating Awaker",
+        "weapon_id": "1905642407",
+        "gallery_number": "789"
+    },
+    {
+        "weaponname": "Total Planner",
+        "weapon_id": "1448711459",
+        "gallery_number": "790"
+    },
+    {
+        "weaponname": "Money Rain",
+        "weapon_id": "1232982751",
+        "gallery_number": "791"
+    },
+    {
+        "weaponname": "Render Station",
+        "weapon_id": "791269051",
+        "gallery_number": "792"
+    },
+    {
+        "weaponname": "Gun Force PGX",
+        "weapon_id": "1277104364",
+        "gallery_number": "793"
+    },
+    {
+        "weaponname": "Digital Drawing Pad",
+        "weapon_id": "1965913964",
+        "gallery_number": "794"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1116955360",
+        "gallery_number": "795"
+    },
+    {
+        "weaponname": "Cheater Hunter",
+        "weapon_id": "880236287",
+        "gallery_number": "796"
+    },
+    {
+        "weaponname": "Super Fixer",
+        "weapon_id": "850633462",
+        "gallery_number": "797"
+    },
+    {
+        "weaponname": "Bug Cleaner",
+        "weapon_id": "1376339540",
+        "gallery_number": "798"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "203359645",
+        "gallery_number": "799"
+    },
+    {
+        "weaponname": "G00dc0de",
+        "weapon_id": "474848773",
+        "gallery_number": "800"
+    },
+    {
+        "weaponname": "Ambush Crocorifle",
+        "weapon_id": "418478793",
+        "gallery_number": "801"
+    },
+    {
+        "weaponname": "Bubble Slasher",
+        "weapon_id": "1899979731",
+        "gallery_number": "802"
+    },
+    {
+        "weaponname": "Disguised Rifle",
+        "weapon_id": "291075282",
+        "gallery_number": "803"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "801218724",
+        "gallery_number": "804"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1395129138",
+        "gallery_number": "805"
+    },
+    {
+        "weaponname": "Enchanting Altar",
+        "weapon_id": "405384158",
+        "gallery_number": "806"
+    },
+    {
+        "weaponname": "Spirit Mask",
+        "weapon_id": "1798307844",
+        "gallery_number": "807"
+    },
+    {
+        "weaponname": "Magical Boomerang",
+        "weapon_id": "2138974223",
+        "gallery_number": "808"
+    },
+    {
+        "weaponname": "Foam Sword",
+        "weapon_id": "1215923123",
+        "gallery_number": "809"
+    },
+    {
+        "weaponname": "Sand Tower Pistol",
+        "weapon_id": "1466216308",
+        "gallery_number": "810"
+    },
+    {
+        "weaponname": "Waterman's Rifle",
+        "weapon_id": "549003567",
+        "gallery_number": "811"
+    },
+    {
+        "weaponname": "High Pressure Rifle",
+        "weapon_id": "419463271",
+        "gallery_number": "812"
+    },
+    {
+        "weaponname": "Sharkado",
+        "weapon_id": "946123693",
+        "gallery_number": "813"
+    },
+    {
+        "weaponname": "Shower Sprinkler",
+        "weapon_id": "584460721",
+        "gallery_number": "814"
+    },
+    {
+        "weaponname": "Star Shard",
+        "weapon_id": "1270555067",
+        "gallery_number": "815"
+    },
+    {
+        "weaponname": "Solar Flare",
+        "weapon_id": "598448124",
+        "gallery_number": "816"
+    },
+    {
+        "weaponname": "Magnetic Storm",
+        "weapon_id": "1958162166",
+        "gallery_number": "817"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1648680774",
+        "gallery_number": "818"
+    },
+    {
+        "weaponname": "Ectoplasmic Grenade Launcher",
+        "weapon_id": "1735206060",
+        "gallery_number": "819"
+    },
+    {
+        "weaponname": "Reversed Pistol",
+        "weapon_id": "2018713198",
+        "gallery_number": "820"
+    },
+    {
+        "weaponname": "Activity Neutralizer",
+        "weapon_id": "1078001003",
+        "gallery_number": "821"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1998610096",
+        "gallery_number": "822"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "1998459392",
+        "gallery_number": "823"
+    },
+    {
+        "weaponname": "Goo Substance Rifle",
+        "weapon_id": "192768265",
+        "gallery_number": "824"
+    },
+    {
+        "weaponname": "Goo Substance Pistol",
+        "weapon_id": "5531274",
+        "gallery_number": "825"
+    },
+    {
+        "weaponname": "Goo Substance Scythe",
+        "weapon_id": "87113165",
+        "gallery_number": "826"
+    },
+    {
+        "weaponname": "PGA-06 TV",
+        "weapon_id": "1256693687",
+        "gallery_number": "827"
+    },
+    {
+        "weaponname": "PGA-04 Doll",
+        "weapon_id": "399932562",
+        "gallery_number": "828"
+    },
+    {
+        "weaponname": "PGA-02 Gates",
+        "weapon_id": "784980529",
+        "gallery_number": "829"
+    },
+    {
+        "weaponname": "PGA-01 Living Rifle",
+        "weapon_id": "192019697",
+        "gallery_number": "830"
+    },
+    {
+        "weaponname": "PGA-05 Slender Touch",
+        "weapon_id": "1833999082",
+        "gallery_number": "831"
+    },
+    {
+        "weaponname": "PGA-03 Screaming Saw",
+        "weapon_id": "825454492",
+        "gallery_number": "832"
+    },
+    {
+        "weaponname": "Atomic Splitter",
+        "weapon_id": "1667082967",
+        "gallery_number": "833"
+    },
+    {
+        "weaponname": "Dimerian Divider",
+        "weapon_id": "1206847580",
+        "gallery_number": "834"
+    },
+    {
+        "weaponname": "Restructurer",
+        "weapon_id": "27371566",
+        "gallery_number": "835"
+    },
+    {
+        "weaponname": "Anomaly Concentrator",
+        "weapon_id": "16867664",
+        "gallery_number": "836"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"837"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"838"
+    },
+    {
+       "weaponname":"BLOQ Plasma Module",
+       "weapon_id":"1280880096",
+       "gallery_number":"839"
+    },
+    {
+       "weaponname":"Plasma Beast",
+       "weapon_id":"85607916",
+       "gallery_number":"840"
+    },
+    {
+       "weaponname":"Drone Combat Station",
+       "weapon_id":"1203775435",
+       "gallery_number":"841"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"842"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"843"
+    },
+    {
+       "weaponname":"Maximum Cruelty",
+       "weapon_id":"67251563",
+       "gallery_number":"844"
+    },
+    {
+       "weaponname":"Represser",
+       "weapon_id":"178112823",
+       "gallery_number":"845"
+    },
+    {
+       "weaponname":"Fear and Despair",
+       "weapon_id":"1967707459",
+       "gallery_number":"846"
+    },
+    {
+       "weaponname":"Rude Bully",
+       "weapon_id":"1017646527",
+       "gallery_number":"847"
+    },
+    {
+       "weaponname":"Laser Ninja",
+       "weapon_id":"2141940570",
+       "gallery_number":"848"
+    },
+    {
+       "weaponname":"Rebel",
+       "weapon_id":"1594909746",
+       "gallery_number":"849"
+    },
+    {
+       "weaponname":"Mobile Outpost",
+       "weapon_id":"338403789",
+       "gallery_number":"850"
+    },
+    {
+       "weaponname":"Outlaw Catcher",
+       "weapon_id":"347404901",
+       "gallery_number":"851"
+    },
+    {
+       "weaponname":"Fair Sheriff",
+       "weapon_id":"1343611220",
+       "gallery_number":"852"
+    },
+    {
+       "weaponname":"Minigun Cyber Module",
+       "weapon_id":"1899251928",
+       "gallery_number":"853"
+    },
+    {
+       "weaponname":"MED Surgery Module",
+       "weapon_id":"945301359",
+       "gallery_number":"854"
+    },
+    {
+       "weaponname":"Supply Airdrop",
+       "weapon_id":"869129695",
+       "gallery_number":"855"
+    },
+    {
+       "weaponname":"Battle Falcon",
+       "weapon_id":"225694780",
+       "gallery_number":"856"
+    },
+    {
+       "weaponname":"Super-Mega-Expedition-Tool",
+       "weapon_id":"2050803115",
+       "gallery_number":"857"
+    },
+    {
+       "weaponname":"Pneumatic Needle Rifle",
+       "weapon_id":"685348835",
+       "gallery_number":"858"
+    },
+    {
+       "weaponname":"Summon Dagger",
+       "weapon_id":"769064936",
+       "gallery_number":"859"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"860"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"861"
+    },
+    {
+       "weaponname":"Frozen Heart",
+       "weapon_id":"2083193943",
+       "gallery_number":"862"
+    },
+    {
+       "weaponname":"Eye of the Storm",
+       "weapon_id":"41135549",
+       "gallery_number":"863"
+    },
+    {
+       "weaponname":"Frosty Fangs",
+       "weapon_id":"1169284415",
+       "gallery_number":"864"
+    },
+    {
+       "weaponname":"Combat Candy",
+       "weapon_id":"1326608792",
+       "gallery_number":"865"
+    },
+    {
+       "weaponname":"HO-HO! Rocket",
+       "weapon_id":"1938266442",
+       "gallery_number":"866"
+    },
+    {
+       "weaponname":"Explosive Caramel",
+       "weapon_id":"1504585261",
+       "gallery_number":"867"
+    },
+    {
+       "weaponname":"Candy Revolver",
+       "weapon_id":"419095249",
+       "gallery_number":"868"
+    },
+    {
+       "weaponname":"Elven Killer Rifle",
+       "weapon_id":"887335593",
+       "gallery_number":"869"
+    },
+    {
+       "weaponname":"Assassin's Daggers",
+       "weapon_id":"2066275265",
+       "gallery_number":"870"
+    },
+    {
+       "weaponname":"Farewell Volley",
+       "weapon_id":"2077560162",
+       "gallery_number":"871"
+    },
+    {
+       "weaponname":"Mystic Potion",
+       "weapon_id":"1\u00c2\u00a0938\u00c2\u00a0262\u00c2\u00a0789",
+       "gallery_number":"872"
+    },
+    {
+       "weaponname":"Siege Crossbow",
+       "weapon_id":"1201094566",
+       "gallery_number":"873"
+    },
+    {
+       "weaponname":"Storm Poleaxes",
+       "weapon_id":"1206744445",
+       "gallery_number":"874"
+    },
+    {
+       "weaponname":"Prophet Staff",
+       "weapon_id":"178119549",
+       "gallery_number":"875"
+    },
+    {
+       "weaponname":"Thor Hammer",
+       "weapon_id":"1811439036",
+       "gallery_number":"876"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"877"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"878"
+    },
+    {
+       "weaponname":"Geri & Freki",
+       "weapon_id":"1226462890",
+       "gallery_number":"879"
+    },
+    {
+       "weaponname":"Sleipnir",
+       "weapon_id":"1083919030",
+       "gallery_number":"880"
+    },
+    {
+       "weaponname":"Huginn",
+       "weapon_id":"1721774935",
+       "gallery_number":"881"
+    },
+    {
+       "weaponname":"Deceitful Cheater",
+       "weapon_id":"356340244",
+       "gallery_number":"882"
+    },
+    {
+       "weaponname":"Cunning Flame",
+       "weapon_id":"408908554",
+       "gallery_number":"883"
+    },
+    {
+       "weaponname":"Harbinger of Ragnarok",
+       "weapon_id":"471393840",
+       "gallery_number":"884"
+    },
+    {
+       "weaponname":"Sun Eater",
+       "weapon_id":"1727484562",
+       "gallery_number":"885"
+    },
+    {
+       "weaponname":"Call of Valhalla",
+       "weapon_id":"434199056",
+       "gallery_number":"886"
+    },
+    {
+       "weaponname":"Winged Bow",
+       "weapon_id":"1612303531",
+       "gallery_number":"887"
+    },
+    {
+       "weaponname":"War Horse",
+       "weapon_id":"1097806850",
+       "gallery_number":"888"
+    },
+    {
+       "weaponname":"Glitched Machine Gun",
+       "weapon_id":"681601264",
+       "gallery_number":"889"
+    },
+    {
+       "weaponname":"Perfect Rocket Launcher",
+       "weapon_id":"1034304171",
+       "gallery_number":"890"
+    },
+    {
+       "weaponname":"NOOB Rifle",
+       "weapon_id":"1138746203",
+       "gallery_number":"891"
+    },
+    {
+       "weaponname":"Evil Rubik's Cube",
+       "weapon_id":"223648111",
+       "gallery_number":"892"
+    },
+    {
+       "weaponname":"Super Pixel Gun",
+       "weapon_id":"731041781",
+       "gallery_number":"893"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"894"
+    },
+    {
+       "weaponname":"Final Verdict",
+       "weapon_id":"321550882",
+       "gallery_number":"895"
+    },
+    {
+       "weaponname":"Piercer",
+       "weapon_id":"422122696",
+       "gallery_number":"896"
+    },
+    {
+       "weaponname":"Borders Eraser",
+       "weapon_id":"376149613",
+       "gallery_number":"897"
+    },
+    {
+       "weaponname":"Demonic Crusher",
+       "weapon_id":"1731121108",
+       "gallery_number":"898"
+    },
+    {
+       "weaponname":"Dual Beam",
+       "weapon_id":"598277010",
+       "gallery_number":"899"
+    },
+    {
+       "weaponname":"Ronin",
+       "weapon_id":"2136161958",
+       "gallery_number":"900"
+    },
+    {
+       "weaponname":"Brutal Rainbow",
+       "weapon_id":"828147793",
+       "gallery_number":"901"
+    },
+    {
+       "weaponname":"Tomianom",
+       "weapon_id":"1884075282",
+       "gallery_number":"902"
+    },
+    {
+       "weaponname":"Time Scythe",
+       "weapon_id":"2026176168",
+       "gallery_number":"903"
+    },
+    {
+       "weaponname":"Cyber Cat Lantern",
+       "weapon_id":"635528739",
+       "gallery_number":"904"
+    },
+    {
+       "weaponname":"Laser Cat Rifle",
+       "weapon_id":"909324455",
+       "gallery_number":"905"
+    },
+    {
+       "weaponname":"Bomber Cat",
+       "weapon_id":"203536178",
+       "gallery_number":"906"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"907"
+    },
+    {
+       "weaponname":"Evidence Hunter",
+       "weapon_id":"1396174686",
+       "gallery_number":"908"
+    },
+    {
+       "weaponname":"Patrol Officer 747",
+       "weapon_id":"1747993946",
+       "gallery_number":"909"
+    },
+    {
+       "weaponname":"Redneck's Bazooka",
+       "weapon_id":"1523478334",
+       "gallery_number":"910"
+    },
+    {
+       "weaponname":"Mayor's Trophy Revolver",
+       "weapon_id":"489989899",
+       "gallery_number":"911"
+    },
+    {
+       "weaponname":"Pixel Cola Cans",
+       "weapon_id":"236446668",
+       "gallery_number":"912"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"913"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"914"
+    },
+    {
+       "weaponname":"Large-Caliber Machine Gun",
+       "weapon_id":"1417065539",
+       "gallery_number":"915"
+    },
+    {
+       "weaponname":"Tactical Pistol",
+       "weapon_id":"1775278995",
+       "gallery_number":"916"
+    },
+    {
+       "weaponname":"Mammoth",
+       "weapon_id":"932249107",
+       "gallery_number":"917"
+    },
+    {
+       "weaponname":"Debts Collector",
+       "weapon_id":"286566896",
+       "gallery_number":"918"
+    },
+    {
+       "weaponname":"Godfathers Assistant",
+       "weapon_id":"1227613380",
+       "gallery_number":"919"
+    },
+    {
+       "weaponname":"Black Label",
+       "weapon_id":"31431556",
+       "gallery_number":"920"
+    },
+    {
+       "weaponname":"Plan B",
+       "weapon_id":"30607044",
+       "gallery_number":"921"
+    },
+    {
+       "weaponname":"Traitor",
+       "weapon_id":"575476779",
+       "gallery_number":"922"
+    },
+    {
+       "weaponname":"Incinerator",
+       "weapon_id":"270670082",
+       "gallery_number":"923"
+    },
+    {
+       "weaponname":"Saboteur",
+       "weapon_id":"854789953",
+       "gallery_number":"924"
+    },
+    {
+       "weaponname":"Rock Smelter",
+       "weapon_id":"250064900",
+       "gallery_number":"925"
+    },
+    {
+       "weaponname":"Tunnel Riveter",
+       "weapon_id":"591059772",
+       "gallery_number":"926"
+    },
+    {
+       "weaponname":"Complete Grinder",
+       "weapon_id":"906524767",
+       "gallery_number":"927"
+    },
+    {
+       "weaponname":"Drilling Railgun",
+       "weapon_id":"1343755856",
+       "gallery_number":"928"
+    },
+    {
+       "weaponname":"Plasmatic Digger",
+       "weapon_id":"571744669",
+       "gallery_number":"929"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"930"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"931"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"932"
+    },
+    {
+       "weaponname":"Portal Rifle",
+       "weapon_id":"2019396363",
+       "gallery_number":"933"
+    },
+    {
+       "weaponname":"Extracting Ray Pistol",
+       "weapon_id":"1711365592",
+       "gallery_number":"934"
+    },
+    {
+       "weaponname":"Terramorphing Stone",
+       "weapon_id":"546597520",
+       "gallery_number":"935"
+    },
+    {
+       "weaponname":"Aerosaur Rifle",
+       "weapon_id":"1324526763",
+       "gallery_number":"936"
+    },
+    {
+       "weaponname":"Bone'o'Saur Sword",
+       "weapon_id":"1664852412",
+       "gallery_number":"937"
+    },
+    {
+       "weaponname":"Heavy Spik'o'Saur",
+       "weapon_id":"2049860071",
+       "gallery_number":"938"
+    },
+    {
+       "weaponname":"Ritual Rifle",
+       "weapon_id":"1305602412",
+       "gallery_number":"939"
+    },
+    {
+       "weaponname":"Tooth of Fate",
+       "weapon_id":"78523691",
+       "gallery_number":"940"
+    },
+    {
+       "weaponname":"Staff of Crystals Will",
+       "weapon_id":"1648950633",
+       "gallery_number":"941"
+    },
+    {
+       "weaponname":"Sparkling Horn",
+       "weapon_id":"713024579",
+       "gallery_number":"942"
+    },
+    {
+       "weaponname":"Adventure Swords",
+       "weapon_id":"213052875",
+       "gallery_number":"943"
+    },
+    {
+       "weaponname":"Flat Rifle",
+       "weapon_id":"1896556212",
+       "gallery_number":"944"
+    },
+    {
+       "weaponname":"Secret Burger Factory",
+       "weapon_id":"1172479598",
+       "gallery_number":"945"
+    },
+    {
+       "weaponname":"Charles",
+       "weapon_id":"1503524410",
+       "gallery_number":"946"
+    },
+    {
+       "weaponname":"Ink Spreader",
+       "weapon_id":"1275447765",
+       "gallery_number":"947"
+    },
+    {
+       "weaponname":"Eraser Crossbow",
+       "weapon_id":"1709205037",
+       "gallery_number":"948"
+    },
+    {
+       "weaponname":"Pencil Spear",
+       "weapon_id":"1249394630",
+       "gallery_number":"949"
+    },
+    {
+       "weaponname":"Bro Steamer",
+       "weapon_id":"839648793",
+       "gallery_number":"950"
+    },
+    {
+       "weaponname":"Sad Magnet",
+       "weapon_id":"1826124797",
+       "gallery_number":"951"
+    },
+    {
+       "weaponname":"Anvil Pistol",
+       "weapon_id":"1282220302",
+       "gallery_number":"952"
+    },
+    {
+       "weaponname":"Masterly Trumpet",
+       "weapon_id":"1699529325",
+       "gallery_number":"953"
+    },
+    {
+       "weaponname":"Blot Axe",
+       "weapon_id":"318674700",
+       "gallery_number":"954"
+    },
+    {
+       "weaponname":"Blot Shotgun",
+       "weapon_id":"1770258054",
+       "gallery_number":"955"
+    },
+    {
+       "weaponname":"Blot Cannon",
+       "weapon_id":"1014841617",
+       "gallery_number":"956"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"957"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"958"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"959"
+    },
+    {
+       "weaponname":"Combat Overlords",
+       "weapon_id":"2031678368",
+       "gallery_number":"960"
+    },
+    {
+       "weaponname":"Sentence",
+       "weapon_id":"631299932",
+       "gallery_number":"961"
+    },
+    {
+       "weaponname":"Project ''Red Button''",
+       "weapon_id":"1625149654",
+       "gallery_number":"962"
+    },
+    {
+       "weaponname":"Lives Harvester",
+       "weapon_id":"1\u00c2\u00a0566\u00c2\u00a0846\u00c2\u00a0984",
+       "gallery_number":"963"
+    },
+    {
+       "weaponname":"Jet Dragon",
+       "weapon_id":"1\u00c2\u00a0742\u00c2\u00a0127\u00c2\u00a0845",
+       "gallery_number":"964"
+    },
+    {
+       "weaponname":"Thermal Ultra Scythe",
+       "weapon_id":"1708510998",
+       "gallery_number":"965"
+    },
+    {
+       "weaponname":"Super Simple-Dimple",
+       "weapon_id":"1131520224",
+       "gallery_number":"966"
+    },
+    {
+       "weaponname":"Chromakey VFX Camera",
+       "weapon_id":"577102974",
+       "gallery_number":"967"
+    },
+    {
+       "weaponname":"Dance Rifle",
+       "weapon_id":"29204108",
+       "gallery_number":"968"
+    },
+    {
+       "weaponname":"Rifle.me Online",
+       "weapon_id":"578956887",
+       "gallery_number":"969"
+    },
+    {
+       "weaponname":"Virtual Concert",
+       "weapon_id":"544547285",
+       "gallery_number":"970"
+    },
+    {
+       "weaponname":"Sharp Chaser",
+       "weapon_id":"781803821",
+       "gallery_number":"971"
+    },
+    {
+       "weaponname":"Zap Katana",
+       "weapon_id":"1810641408",
+       "gallery_number":"972"
+    },
+    {
+       "weaponname":"Cyber Lantern",
+       "weapon_id":"1989769732",
+       "gallery_number":"973"
+    },
+    {
+       "weaponname":"BRO Rifle",
+       "weapon_id":"844350298",
+       "gallery_number":"974"
+    },
+    {
+       "weaponname":"Ninja Swordpad",
+       "weapon_id":"1463544293",
+       "gallery_number":"975"
+    },
+    {
+       "weaponname":"Hype Yo-Yo",
+       "weapon_id":"1165825924",
+       "gallery_number":"976"
+    },
+    {
+       "weaponname":"Streaming Beast",
+       "weapon_id":"2123554898",
+       "gallery_number":"977"
+    },
+    {
+       "weaponname":"Dislike",
+       "weapon_id":"1674620181",
+       "gallery_number":"978"
+    },
+    {
+       "weaponname":"Likes Absorber",
+       "weapon_id":"700087275",
+       "gallery_number":"979"
+    },
+    {
+       "weaponname":"Bad Comment",
+       "weapon_id":"811119823",
+       "gallery_number":"980"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"981"
+    },
+    {
+       "weaponname":"N/A",
+       "weapon_id":"0",
+       "gallery_number":"982"
+    },
+    {
+       "weaponname":"Mysterious Obelisk",
+       "weapon_id":"805071078",
+       "gallery_number":"983"
+    },
+    {
+       "weaponname":"Ritual Embalmer",
+       "weapon_id":"716331765",
+       "gallery_number":"984"
+    },
+    {
+        "weaponname": "Sacret Cat Will",
+        "weapon_id": "470530026",
+        "gallery_number": "985"
+    },
+    {
+        "weaponname": "Sentinel",
+        "weapon_id": "1712357346",
+        "gallery_number": "986"
+    },
+    {
+        "weaponname": "Howl of the Mummy",
+        "weapon_id": "1890803592",
+        "gallery_number": "987"
+    },
+    {
+        "weaponname": "Punishing Light",
+        "weapon_id": "1130509566",
+        "gallery_number": "988"
+    },
+    {
+        "weaponname": "Piercing Gaze of RA",
+        "weapon_id": "1896935093",
+        "gallery_number": "989"
+    },
+    {
+        "weaponname": "Eternal Sun's Wrath",
+        "weapon_id": "1468547132",
+        "gallery_number": "990"
+    },
+    {
+        "weaponname": "Fair Judge",
+        "weapon_id": "491524056",
+        "gallery_number": "991"
+    },
+    {
+        "weaponname": "Black Obelisk",
+        "weapon_id": "296772685",
+        "gallery_number": "992"
+    },
+    {
+        "weaponname": "Plaguebringer",
+        "weapon_id": "118718489",
+        "gallery_number": "993"
+    },
+    {
+        "weaponname": "Scarab Shrine",
+        "weapon_id": "1337830922",
+        "gallery_number": "994"
+    },
+    {
+        "weaponname": "Disturbed Sarcophagus",
+        "weapon_id": "1346640545",
+        "gallery_number": "995"
+    },
+    {
+        "weaponname": "Royal Cobra Spirit",
+        "weapon_id": "1185575729",
+        "gallery_number": "996"
+    },
+    {
+        "weaponname": "Pharaon III Breath",
+        "weapon_id": "2059652530",
+        "gallery_number": "997"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "998"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "999"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1000"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1001"
+    },
+    {
+        "weaponname": "Ultrasonic Rifle",
+        "weapon_id": "1482403805",
+        "gallery_number": "1002"
+    },
+    {
+        "weaponname": "Electronics Burner",
+        "weapon_id": "1671760128",
+        "gallery_number": "1003"
+    },
+    {
+        "weaponname": "Hounds RX03",
+        "weapon_id": "1471663537",
+        "gallery_number": "1004"
+    },
+    {
+        "weaponname": "System 'Scorpion'",
+        "weapon_id": "25336295",
+        "gallery_number": "1005"
+    },
+    {
+        "weaponname": "'Rumble'",
+        "weapon_id": "1661181449",
+        "gallery_number": "1006"
+    },
+    {
+        "weaponname": "Huge Wrench",
+        "weapon_id": "1492845957",
+        "gallery_number": "1007"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1008"
+    },
+    {
+        "weaponname": "Experimental Rifle",
+        "weapon_id": "138565963",
+        "gallery_number": "1009"
+    },
+    {
+        "weaponname": "Jet Spear",
+        "weapon_id": "1431549381",
+        "gallery_number": "1010"
+    },
+    {
+        "weaponname": "Tactical Scorcher",
+        "weapon_id": "902132807",
+        "gallery_number": "1011"
+    },
+    {
+        "weaponname": "Siege Minigun",
+        "weapon_id": "286608289",
+        "gallery_number": "1012"
+    },
+    {
+        "weaponname": "Thermal Mecha Knife",
+        "weapon_id": "2065691940",
+        "gallery_number": "1013"
+    },
+    {
+        "weaponname": "Disruptive Howitzer",
+        "weapon_id": "877056784",
+        "gallery_number": "1014"
+    },
+    {
+        "weaponname": "Anti-Aircraft Module",
+        "weapon_id": "818284366",
+        "gallery_number": "1015"
+    },
+    {
+        "weaponname": "Engineering Saw Thrower",
+        "weapon_id": "315691453",
+        "gallery_number": "1016"
+    },
+    {
+        "weaponname": "Corpuscular Revolver",
+        "weapon_id": "1257159725",
+        "gallery_number": "1017"
+    },
+    {
+        "weaponname": "Uranium Grenade Launcher",
+        "weapon_id": "2115518545",
+        "gallery_number": "1018"
+    },
+    {
+        "weaponname": "Golden Eagles",
+        "weapon_id": "1906873549",
+        "gallery_number": "1019"
+    },
+    {
+        "weaponname": "Wayfarer",
+        "weapon_id": "495407929",
+        "gallery_number": "1020"
+    },
+    {
+        "weaponname": "Fate",
+        "weapon_id": "180735068",
+        "gallery_number": "1021"
+    },
+    {
+        "weaponname": "Holographic Cards",
+        "weapon_id": "1503393330",
+        "gallery_number": "1022"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1023"
+    },
+    {
+        "weaponname": "Mutation Cannon",
+        "weapon_id": "1177529341",
+        "gallery_number": "1024"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1025"
+    },
+    {
+        "weaponname": "Hungry Flower",
+        "weapon_id": "557330785",
+        "gallery_number": "1026"
+    },
+    {
+        "weaponname": "C4 Basket",
+        "weapon_id": "1731678912",
+        "gallery_number": "1027"
+    },
+    {
+        "weaponname": "Head of Statue",
+        "weapon_id": "1877972903",
+        "gallery_number": "1028"
+    },
+    {
+        "weaponname": "Tank Turret",
+        "weapon_id": "561816047",
+        "gallery_number": "1029"
+    },
+    {
+        "weaponname": "Space Parasite Dreadnought",
+        "weapon_id": "438788276",
+        "gallery_number": "1030"
+    },
+    {
+        "weaponname": "Space Parasite Fighter",
+        "weapon_id": "1198897750",
+        "gallery_number": "1031"
+    },
+    {
+        "weaponname": "Alien Parasite Mothership",
+        "weapon_id": "1552711825",
+        "gallery_number": "1032"
+    },
+    {
+        "weaponname": "Bad Clown",
+        "weapon_id": "837715681",
+        "gallery_number": "1033"
+    },
+    {
+        "weaponname": "Disturbing Balloons",
+        "weapon_id": "87288348",
+        "gallery_number": "1034"
+    },
+    {
+        "weaponname": "Clown Chainsaw",
+        "weapon_id": "910237886",
+        "gallery_number": "1035"
+    },
+    {
+        "weaponname": "Irradiated SMG",
+        "weapon_id": "2009213779",
+        "gallery_number": "1036"
+    },
+    {
+        "weaponname": "Mutant Fish",
+        "weapon_id": "1331441564",
+        "gallery_number": "1037"
+    },
+    {
+        "weaponname": "Spiky Limbs",
+        "weapon_id": "1628825734",
+        "gallery_number": "1038"
+    },
+    {
+        "weaponname": "Deadly Flower",
+        "weapon_id": "478708353",
+        "gallery_number": "1039"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1040"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1041"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1042"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1043"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1044"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1045"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1046"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1047"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1048"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1049"
+    },
+    {
+        "weaponname": "Automatic Injector",
+        "weapon_id": "1163065246",
+        "gallery_number": "1050"
+    },
+    {
+        "weaponname": "Antidote Missile Launcher",
+        "weapon_id": "1042008444",
+        "gallery_number": "1051"
+    },
+    {
+        "weaponname": "Purifying Shotgun",
+        "weapon_id": "341060722",
+        "gallery_number": "1052"
+    },
+    {
+        "weaponname": "Mutant Slayer",
+        "weapon_id": "1309401412",
+        "gallery_number": "1053"
+    },
+    {
+        "weaponname": "Mutagen Neutralizer",
+        "weapon_id": "2144657003",
+        "gallery_number": "1054"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1055"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1056"
+    },
+    {
+        "weaponname": "Rune Buster",
+        "weapon_id": "498933114",
+        "gallery_number": "1057"
+    },
+    {
+        "weaponname": "Ice Wyvern Horns",
+        "weapon_id": "1010284142",
+        "gallery_number": "1058"
+    },
+    {
+        "weaponname": "Runic Sentinel",
+        "weapon_id": "742787636",
+        "gallery_number": "1059"
+    },
+    {
+        "weaponname": "Crystal Touch",
+        "weapon_id": "851586844",
+        "gallery_number": "1060"
+    },
+    {
+        "weaponname": "Crystal Bow",
+        "weapon_id": "976372763",
+        "gallery_number": "1061"
+    },
+    {
+        "weaponname": "Enchanted Crystal of Ancients",
+        "weapon_id": "84097771",
+        "gallery_number": "1062"
+    },
+    {
+        "weaponname": "Full Moon Rifle",
+        "weapon_id": "1078819380",
+        "gallery_number": "1063"
+    },
+    {
+        "weaponname": "Fireflies Blessing",
+        "weapon_id": "907844317",
+        "gallery_number": "1064"
+    },
+    {
+        "weaponname": "Branch of Wisdom",
+        "weapon_id": "445906780",
+        "gallery_number": "1065"
+    },
+    {
+        "weaponname": "Eternal Light",
+        "weapon_id": "1849091780",
+        "gallery_number": "1066"
+    },
+    {
+        "weaponname": "Mirrorer",
+        "weapon_id": "1120295942",
+        "gallery_number": "1067"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1068"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1069"
+    },
+    {
+        "weaponname": "Otherworldly Wanderer",
+        "weapon_id": "910736709",
+        "gallery_number": "1070"
+    },
+    {
+        "weaponname": "Dark Deer Bow",
+        "weapon_id": "737253316",
+        "gallery_number": "1071"
+    },
+    {
+        "weaponname": "Reflected Santa Sword",
+        "weapon_id": "617899874",
+        "gallery_number": "1072"
+    },
+    {
+        "weaponname": "Combat Fireplace",
+        "weapon_id": "2070592994",
+        "gallery_number": "1073"
+    },
+    {
+        "weaponname": "Combat Candy Machine",
+        "weapon_id": "1801828058",
+        "gallery_number": "1074"
+    },
+    {
+        "weaponname": "Gift Stealer",
+        "weapon_id": "1687773979",
+        "gallery_number": "1075"
+    },
+    {
+        "weaponname": "Tricky Gingerbread",
+        "weapon_id": "25619411",
+        "gallery_number": "1076"
+    },
+    {
+        "weaponname": "End of Fairytale",
+        "weapon_id": "341635391",
+        "gallery_number": "1077"
+    },
+    {
+        "weaponname": "Fairy's Poleaxe",
+        "weapon_id": "1608559084",
+        "gallery_number": "1078"
+    },
+    {
+        "weaponname": "Butterfly Eater",
+        "weapon_id": "1651304239",
+        "gallery_number": "1079"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1080"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1081"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1082"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1083"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1084"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1085"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1086"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1087"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1088"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1089"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1090"
+    },
+    {
+        "weaponname": "Handy Darts",
+        "weapon_id": "1898257649",
+        "gallery_number": "1091"
+    },
+    {
+        "weaponname": "Spirits Whisper",
+        "weapon_id": "2047361011",
+        "gallery_number": "1092"
+    },
+    {
+        "weaponname": "Makeshift Piercer",
+        "weapon_id": "190642895",
+        "gallery_number": "1093"
+    },
+    {
+        "weaponname": "Battle Kusarigama",
+        "weapon_id": "113550630",
+        "gallery_number": "1094"
+    },
+    {
+        "weaponname": "Temple Claws",
+        "weapon_id": "1986788520",
+        "gallery_number": "1095"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1096"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1097"
+    },
+    {
+        "weaponname": "Deadly Swirl",
+        "weapon_id": "2067100580",
+        "gallery_number": "1098"
+    },
+    {
+        "weaponname": "Storm Bringer",
+        "weapon_id": "1415676419",
+        "gallery_number": "1099"
+    },
+    {
+        "weaponname": "Clouds Disperser",
+        "weapon_id": "906135656",
+        "gallery_number": "1100"
+    },
+    {
+        "weaponname": "Field Plasma Station",
+        "weapon_id": "1039819282",
+        "gallery_number": "1101"
+    },
+    {
+        "weaponname": "Still Working Windmill",
+        "weapon_id": "1304942523",
+        "gallery_number": "1102"
+    },
+    {
+        "weaponname": "Thunder Formura",
+        "weapon_id": "2054361061",
+        "gallery_number": "1104"
+    },
+    {
+        "weaponname": "Bubble GUM 01",
+        "weapon_id": "1564303663",
+        "gallery_number": "1105"
+    },
+    {
+        "weaponname": "TNT Thrower",
+        "weapon_id": "2067784116",
+        "gallery_number": "1106"
+    },
+    {
+        "weaponname": "AK-556",
+        "weapon_id": "1170933031",
+        "gallery_number": "1107"
+    },
+    {
+        "weaponname": "Fake Pistol",
+        "weapon_id": "307472056",
+        "gallery_number": "1108"
+    },
+    {
+        "weaponname": "Swords of Intelligence",
+        "weapon_id": "623622656",
+        "gallery_number": "1109"
+    },
+    {
+        "weaponname": "Controlled Drone System",
+        "weapon_id": "921919177",
+        "gallery_number": "1110"
+    },
+    {
+        "weaponname": "Deadly Beamer",
+        "weapon_id": "1608794896",
+        "gallery_number": "1111"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1112"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1113"
+    },
+    {
+        "weaponname": "Elves Energy Crystal",
+        "weapon_id": "2072299425",
+        "gallery_number": "1114"
+    },
+    {
+        "weaponname": "Tricky Electrizer",
+        "weapon_id": "1955787330",
+        "gallery_number": "1115"
+    },
+    {
+        "weaponname": "Plague Spreader",
+        "weapon_id": "665856323",
+        "gallery_number": "1116"
+    },
+    {
+        "weaponname": "Ancestors Curse",
+        "weapon_id": "779574417",
+        "gallery_number": "1117"
+    },
+    {
+        "weaponname": "Moon Hunter Bow",
+        "weapon_id": "715361297",
+        "gallery_number": "1118"
+    },
+    {
+        "weaponname": "Heavy Elf Crossbow",
+        "weapon_id": "104297356",
+        "gallery_number": "1119"
+    },
+    {
+        "weaponname": "Lightbringer",
+        "weapon_id": "1413235781",
+        "gallery_number": "1120"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1121"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1122"
+    },
+    {
+        "weaponname": "Ice Giant Rifle",
+        "weapon_id": "450215902",
+        "gallery_number": "1123"
+    },
+    {
+        "weaponname": "Moonblades",
+        "weapon_id": "139759676",
+        "gallery_number": "1124"
+    },
+    {
+        "weaponname": "Eco-rifle",
+        "weapon_id": "1613947306",
+        "gallery_number": "1125"
+    },
+    {
+        "weaponname": "Solar Lens",
+        "weapon_id": "406715892",
+        "gallery_number": "1126"
+    },
+    {
+        "weaponname": "Blacklight Pistol",
+        "weapon_id": "393104511",
+        "gallery_number": "1127"
+    },
+    {
+        "weaponname": "Supernova Generator",
+        "weapon_id": "471271187",
+        "gallery_number": "1128"
+    },
+    {
+        "weaponname": "Event Horizon",
+        "weapon_id": "1003592950",
+        "gallery_number": "1129"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1130"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1131"
+    },
+    {
+        "weaponname": "Unfriendly Bat",
+        "weapon_id": "669881174",
+        "gallery_number": "1132"
+    },
+    {
+        "weaponname": "Tamagochi Revolver",
+        "weapon_id": "1474047739",
+        "gallery_number": "1133"
+    },
+    {
+        "weaponname": "Mad Colorer",
+        "weapon_id": "1711632889",
+        "gallery_number": "1134"
+    },
+    {
+        "weaponname": "Nachos Shotgun",
+        "weapon_id": "70564515",
+        "gallery_number": "1135"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1136"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1137"
+    },
+    {
+        "weaponname": "Shockorizer",
+        "weapon_id": "1338649193",
+        "gallery_number": "1138"
+    },
+    {
+        "weaponname": "Crescent Power",
+        "weapon_id": "1448242363",
+        "gallery_number": "1139"
+    },
+    {
+        "weaponname": "ODM Spcial Gear",
+        "weapon_id": "1795468838",
+        "gallery_number": "1140"
+    },
+    {
+        "weaponname": "Deadly Eye Vengeance",
+        "weapon_id": "1758233708",
+        "gallery_number": "1141"
+    },
+    {
+        "weaponname": "Doubled Quirk",
+        "weapon_id": "920088216",
+        "gallery_number": "1142"
+    },
+    {
+        "weaponname": "Grenade Quirk",
+        "weapon_id": "295713833",
+        "gallery_number": "1143"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1144"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1145"
+    },
+    {
+        "weaponname": "Guardian Spirit",
+        "weapon_id": "1008337021",
+        "gallery_number": "1146"
+    },
+    {
+        "weaponname": "Ghost Epee",
+        "weapon_id": "1959349629",
+        "gallery_number": "1147"
+    },
+    {
+        "weaponname": "The Sorting Pistol",
+        "weapon_id": "1565806212",
+        "gallery_number": "1148"
+    },
+    {
+        "weaponname": "Raven Staff",
+        "weapon_id": "1096706871",
+        "gallery_number": "1149"
+    },
+    {
+        "weaponname": "Corrupted Speelbook",
+        "weapon_id": "435752577",
+        "gallery_number": "1150"
+    },
+    {
+        "weaponname": "Additional Biting Limb",
+        "weapon_id": "1051785486",
+        "gallery_number": "1151"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1152"
+    },
+    {
+        "weaponname": "N/A",
+        "weapon_id": "N/A",
+        "gallery_number": "1153"
+    },
+    {
+        "weaponname": "Transforming Rifle",
+        "weapon_id": "1998900943",
+        "gallery_number": "1154"
+    },
+    {
+        "weaponname": "Monkey Pirate",
+        "weapon_id": "1218967479",
+        "gallery_number": "1155"
+    },
+    {
+        "weaponname": "Holographic Hook & Saber",
+        "weapon_id": "554178654",
+        "gallery_number": "1156"
+    },
+    {
+        "weaponname": "Navigation Shotgun",
+        "weapon_id": "764632685",
+        "gallery_number": "1157"
+    },
+    {
+        "weaponname": "Three-Barrels Cannon",
+        "weapon_id": "1126521136",
+        "gallery_number": "1158"
+    },
+    {
+        "weaponname": "Ships Drowner",
+        "weapon_id": "2049127589",
+        "gallery_number": "1159"
+    },
+    {
+        "weaponname": "cosmo_underwater_mine_shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "1160"
+    },
+    {
+        "weaponname": "Living Specimen Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "1161"
+    },
+    {
+        "weaponname": "Deadly Shark",
+        "weapon_id": "179236253",
+        "gallery_number": "1162"
+    },
+    {
+        "weaponname": "Warden's Trident",
+        "weapon_id": "768036615",
+        "gallery_number": "1163"
+    },
+    {
+        "weaponname": "Nets Thrower",
+        "weapon_id": "2040804594",
+        "gallery_number": "1164"
+    },
+    {
+        "weaponname": "Tick-Tock Pistol",
+        "weapon_id": "733686203",
+        "gallery_number": "1165"
+    },
+    {
+        "weaponname": "Heavy Cone Minigun",
+        "weapon_id": "421256383",
+        "gallery_number": "1166"
+    },
+    {
+        "weaponname": "Starfall",
+        "weapon_id": "1275817827",
+        "gallery_number": "1167"
+    },
+    {
+        "weaponname": "Dreams Warden",
+        "weapon_id": "1852837142",
+        "gallery_number": "1168"
+    },
+    {
+        "weaponname": "Snowstorm Fury",
+        "weapon_id": "1014848841",
+        "gallery_number": "1169"
+    },
+    {
+        "weaponname": "Spirits Overseer",
+        "weapon_id": "771836756",
+        "gallery_number": "1170"
+    },
+    {
+        "weaponname": "Snow Queen Dominion",
+        "weapon_id": "1121604387",
+        "gallery_number": "1171"
+    },
+    {
+        "weaponname": "X-mas Vibes Setter",
+        "weapon_id": "1520099946",
+        "gallery_number": "1172"
+    },
+    {
+        "weaponname": "Fatal Decorator",
+        "weapon_id": "353285950",
+        "gallery_number": "1173"
+    },
+    {
+        "weaponname": "X-mas Spirits Defender",
+        "weapon_id": "376301873",
+        "gallery_number": "1174"
+    },
+    {
+        "weaponname": "Nature Guards Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "1175"
+    },
+    {
+        "weaponname": "Starfall Shovel",
+        "weapon_id": "N/A",
+        "gallery_number": "1176"
+    },
+    {
+        "weaponname": "Harsh Dragon",
+        "weapon_id": "280262012",
+        "gallery_number": "1177"
+    },
+    {
+        "weaponname": "Armor-Piercing Sniper Rifle",
+        "weapon_id": "443570996",
+        "gallery_number": "1178"
+    },
+    {
+        "weaponname": "Leader's Butterfly",
+        "weapon_id": "2146279264",
+        "gallery_number": "1179"
+    },
+    {
+        "weaponname": "Leader's Best Friend",
+        "weapon_id": "1554403141",
+        "gallery_number": "1180"
+    },
+    {
+        "weaponname": "Reckoning Day Sniper Rifle",
+        "weapon_id": "923825120",
+        "gallery_number": "1181"
+    },
+    {
+        "weaponname": "Reckoning Day Pistols",
+        "weapon_id": "771675454",
+        "gallery_number": "1182"
+    },
+    {
+        "weaponname": "Reckoning Day Flamethrower",
+        "weapon_id": "815091258",
+        "gallery_number": "1183"
+    },
+    {
+        "weaponname": "Festive Eliminator",
+        "weapon_id": "1606262427",
+        "gallery_number": "1184"
+    },
+    {
+        "weaponname": "Spirit Exorcist",
+        "weapon_id": "423381483",
+        "gallery_number": "1185"
+    },
+    {
+        "weaponname": "Wealth Distributor",
+        "weapon_id": "2024904128",
+        "gallery_number": "1186"
+    },
+    {
+      "weaponname": "Ultimate Worship",
+      "weapon_id": "576824212",
+      "gallery_number": "1187"
+    },
+     {
+      "weaponname":"Ritual Scissors",
+      "weapon_id":"240012663",
+      "gallery_number":"1188"
+   },
+   {
+      "weaponname":"Dark Ritual",
+      "weapon_id":"48019588",
+      "gallery_number":"1189"
+   },
+   {
+      "weaponname":"Light Devourer",
+      "weapon_id":"1817194253",
+      "gallery_number":"1190"
+   },
+   {
+      "weaponname":"Bloody Terror Axe",
+      "weapon_id":"286166567",
+      "gallery_number":"1191"
+   },
+   {
+      "weaponname":"Sacrificial Altar",
+      "weapon_id":"1512296695",
+      "gallery_number":"1192"
+   },
+   {
+      "weaponname":"Hunting Signs",
+      "weapon_id":"235523268",
+      "gallery_number":"1193"
+   },
+   {
+      "weaponname":"Monster Claw",
+      "weapon_id":"388303556",
+      "gallery_number":"1194"
+   },
+   {
+      "weaponname":"Locator",
+      "weapon_id":"1954795456",
+      "gallery_number":"1195"
+   },
+   {
+      "weaponname":"Terror Spreader",
+      "weapon_id":"1041759753",
+      "gallery_number":"1196"
+   },
+   {
+      "weaponname":"Spring Snatcher",
+      "weapon_id":"913522912",
+      "gallery_number":"1197"
+   }
+]
