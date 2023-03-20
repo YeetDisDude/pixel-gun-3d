@@ -76,6 +76,10 @@
       "wearid":"469060882"
    },
    {
+      "wearname": "Santa Armor",
+      "wearid": "N/A"
+   },
+   {
       "wearname":"Santa Boots",
       "wearid":"1176562279"
    },
@@ -92,6 +96,10 @@
       "wearid":"351671121"
    },
    {
+      "wearname": "Pumpkin Armor",
+      "wearid": "N/A"
+   },
+   {
       "wearname":"Exo Pilot Hat",
       "wearid":"1112371572"
    },
@@ -102,6 +110,10 @@
    {
       "wearname":"Exo Pilot Boots",
       "wearid":"805894116"
+   },
+   {
+      "wearname": "Exo Pilot Armor",
+      "wearid": "N/A"
    },
    {
       "wearname":"Inflatable Armor",
@@ -216,7 +228,7 @@
       "wearid":"1659869159"
    },
    {
-      "wearname":"Unknown Mask (?)",
+      "wearname":"Unknown Mask",
       "wearid":"852661333"
    },
    {
