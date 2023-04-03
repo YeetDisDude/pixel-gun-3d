@@ -5978,5 +5978,45 @@
       "weaponname":"Spring Snatcher",
       "weapon_id":"913522912",
       "gallery_number":"1197"
+   },
+   {
+      "weaponname":"Sticky Honey Dipper",
+      "weapon_id":"74617166",
+      "gallery_number":"1198"
+   },
+   {
+      "weaponname":"1690140655",
+      "weapon_id":"Chef's Bounty",
+      "gallery_number":"1199"
+   },
+   {
+      "weaponname":"Cloying Eliminator",
+      "weapon_id":"268344308",
+      "gallery_number":"1200"
+   },
+   {
+      "weaponname":"Want Some Ice Cream?",
+      "weapon_id":"1611999472",
+      "gallery_number":"1201"
+   },
+   {
+      "weaponname":"Pasta Grater",
+      "weapon_id":"528595595",
+      "gallery_number":"1202"
+   },
+   {
+      "weaponname":"Pasta Sniper",
+      "weapon_id":"1068811356",
+      "gallery_number":"1203"
+   },
+   {
+      "weaponname":"Pasta Maker",
+      "weapon_id":"768613866",
+      "gallery_number":"1204"
+   },
+   {
+      "weaponname":"PG Menu",
+      "weapon_id":"516864671",
+      "gallery_number":"1205"
    }
 ]
