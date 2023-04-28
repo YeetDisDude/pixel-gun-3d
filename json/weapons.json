@@ -601,7 +601,7 @@
     },
     {
         "weaponname": "Just A Hand",
-        "weapon_id": "???",
+        "weapon_id": "1087332390",
         "gallery_number": "121"
     },
     {
@@ -946,12 +946,12 @@
     },
     {
         "weaponname": "Napalm Cannon",
-        "weapon_id": "???",
+        "weapon_id": "563547707",
         "gallery_number": "190"
     },
     {
         "weaponname": "Sword of Shadows",
-        "weapon_id": "???",
+        "weapon_id": "2081052713",
         "gallery_number": "191"
     },
     {
@@ -1081,7 +1081,7 @@
     },
     {
         "weaponname": "Blade of Justice",
-        "weapon_id": "???",
+        "weapon_id": "1019391990",
         "gallery_number": "217"
     },
     {
@@ -6018,5 +6018,60 @@
       "weaponname":"PG Menu",
       "weapon_id":"516864671",
       "gallery_number":"1205"
+   },
+   {
+     "weaponname": "Space Courier",
+     "weapon_id": "1190941757",
+     "gallery_number": "1206"
+   },
+   {
+     "weaponname": "Anniversary Alien Blaster",
+     "weapon_id": "1739576446",
+     "gallery_number": "1207"
+   },
+   {
+     "weaponname": "Anniversary Peacemaker",
+     "weapon_id": "2094999821",
+     "gallery_number": "1208"
+   },
+   {
+     "weaponname": "Anniversary Anti-champion Rifle",
+     "weapon_id": "1685356237",
+     "gallery_number": "1209"
+   },
+   {
+     "weaponname": "Anniversary Big Buddy",
+     "weapon_id": "1805791938",
+     "gallery_number": "1210"
+   },
+   {
+     "weaponname": "Pixel Rotator",
+     "weapon_id": "1294619604",
+     "gallery_number": "1211"
+   },
+   {
+     "weaponname": "Armored Cube Power",
+     "weapon_id": "1534850236",
+     "gallery_number": "1212"
+   },
+   {
+     "weaponname": "Cuber Railgun",
+     "weapon_id": "461419998",
+     "gallery_number": "1213"
+   },
+   {
+     "weaponname": "Secret PG Archives",
+     "weapon_id": "2078920948",
+     "gallery_number": "1214"
+   },
+   {
+     "weaponname": "Block Eye",
+     "weapon_id": "1757799743",
+     "gallery_number": "1215"
+   },
+   {
+     "weaponname": "Honored Golden Friend",
+     "weapon_id": "2012254334",
+     "gallery_number": "1216"
    }
 ]
